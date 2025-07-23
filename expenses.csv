@@ -1,0 +1,1001 @@
+Date,Category,Amount,Type,Description,PaymentMethod,User,Location,Recurring
+2025-01-01,Freelancing,1698.24,Income,Stock investment,UPI,Alice,Bangalore,Yes
+2025-01-01,Transport,146.69,Expense,Groceries at Big Bazaar,Cash,Diana,Delhi,No
+2025-01-01,Utilities,523.49,Expense,Zomato order,Card,Charlie,Chennai,Yes
+2025-01-01,Transport,807.18,Expense,Stock investment,Card,Charlie,Chennai,Yes
+2025-01-01,Transport,1413.23,Expense,Amazon purchase,Cash,Bob,Delhi,No
+2025-01-01,Salary,3299.78,Income,Zomato order,Cash,Bob,Mumbai,No
+2025-01-02,Groceries,1257.39,Expense,Stock investment,UPI,Alice,Bangalore,No
+2025-01-02,Investments,2486.52,Income,Freelance project,Cash,Diana,Bangalore,Yes
+2025-01-02,Investments,1767.06,Income,Zomato order,Card,Charlie,Chennai,No
+2025-01-02,Healthcare,885.53,Expense,Freelance project,Card,Charlie,Mumbai,Yes
+2025-01-02,Dining,722.76,Expense,Amazon purchase,UPI,Charlie,Mumbai,Yes
+2025-01-02,Salary,2502.17,Income,Gym membership,Bank Transfer,Bob,Bangalore,No
+2025-01-02,Shopping,260.15,Expense,Electricity bill,Card,Alice,Chennai,Yes
+2025-01-02,Investments,2769.71,Income,Groceries at Big Bazaar,Bank Transfer,Charlie,Mumbai,Yes
+2025-01-02,Healthcare,375.91,Expense,Gym membership,Card,Alice,Bangalore,No
+2025-01-03,Transport,94.44,Expense,Amazon purchase,Card,Diana,Delhi,No
+2025-01-03,Healthcare,1342.75,Expense,Amazon purchase,Card,Alice,Delhi,No
+2025-01-03,Dining,913.55,Expense,Freelance project,Cash,Alice,Bangalore,No
+2025-01-03,Shopping,226.07,Expense,Gym membership,Bank Transfer,Diana,Delhi,Yes
+2025-01-03,Salary,2778.32,Income,Uber ride,Card,Alice,Delhi,No
+2025-01-04,Utilities,1088.04,Expense,Amazon purchase,Cash,Bob,Delhi,No
+2025-01-04,Shopping,588.06,Expense,Amazon purchase,UPI,Charlie,Chennai,Yes
+2025-01-04,Groceries,141.85,Expense,Freelance project,Cash,Bob,Mumbai,No
+2025-01-04,Groceries,365.03,Expense,Amazon purchase,Bank Transfer,Alice,Chennai,Yes
+2025-01-04,Healthcare,173.63,Expense,Gym membership,UPI,Charlie,Chennai,Yes
+2025-01-05,Groceries,1128.82,Expense,Gym membership,UPI,Alice,Bangalore,No
+2025-01-05,Dining,166.34,Expense,Uber ride,Bank Transfer,Diana,Bangalore,No
+2025-01-05,Groceries,649.16,Expense,Uber ride,Bank Transfer,Diana,Delhi,No
+2025-01-05,Healthcare,1326.24,Expense,Uber ride,Cash,Bob,Mumbai,Yes
+2025-01-05,Freelancing,1919.74,Income,Stock investment,Bank Transfer,Alice,Bangalore,No
+2025-01-05,Utilities,1120.02,Expense,Stock investment,UPI,Charlie,Bangalore,No
+2025-01-05,Utilities,299.48,Expense,Stock investment,UPI,Alice,Mumbai,No
+2025-01-05,Rent,790.15,Expense,Uber ride,Card,Bob,Delhi,Yes
+2025-01-05,Groceries,1367.39,Expense,Uber ride,UPI,Bob,Mumbai,Yes
+2025-01-06,Dining,1391.92,Expense,Gym membership,UPI,Bob,Bangalore,Yes
+2025-01-06,Groceries,1043.43,Expense,Amazon purchase,Card,Alice,Chennai,No
+2025-01-06,Rent,952.25,Expense,Uber ride,Cash,Bob,Bangalore,Yes
+2025-01-06,Salary,3332.85,Income,Zomato order,Card,Charlie,Mumbai,Yes
+2025-01-07,Utilities,1106.06,Expense,Uber ride,Bank Transfer,Diana,Delhi,Yes
+2025-01-07,Shopping,1117.3,Expense,Gym membership,Card,Charlie,Mumbai,Yes
+2025-01-07,Groceries,144.51,Expense,Gym membership,Bank Transfer,Alice,Chennai,Yes
+2025-01-07,Salary,3634.5,Income,Electricity bill,Cash,Alice,Delhi,No
+2025-01-08,Utilities,328.45,Expense,Gym membership,Card,Diana,Bangalore,No
+2025-01-08,Freelancing,3671.22,Income,Groceries at Big Bazaar,Card,Bob,Bangalore,No
+2025-01-08,Rent,1464.23,Expense,Uber ride,Cash,Bob,Delhi,No
+2025-01-08,Healthcare,1330.48,Expense,Groceries at Big Bazaar,Cash,Charlie,Delhi,Yes
+2025-01-08,Dining,133.58,Expense,Electricity bill,Cash,Alice,Delhi,No
+2025-01-08,Utilities,1397.34,Expense,Gym membership,Cash,Charlie,Mumbai,No
+2025-01-08,Freelancing,2422.54,Income,Gym membership,Bank Transfer,Bob,Mumbai,No
+2025-01-08,Groceries,264.84,Expense,Gym membership,Cash,Diana,Delhi,Yes
+2025-01-08,Healthcare,1084.56,Expense,Zomato order,UPI,Diana,Mumbai,No
+2025-01-09,Transport,553.48,Expense,Groceries at Big Bazaar,Cash,Bob,Delhi,Yes
+2025-01-09,Investments,3532.23,Income,Uber ride,Cash,Alice,Mumbai,No
+2025-01-09,Groceries,338.45,Expense,Freelance project,UPI,Bob,Bangalore,No
+2025-01-09,Dining,821.92,Expense,Zomato order,UPI,Bob,Delhi,Yes
+2025-01-09,Investments,1901.31,Income,Uber ride,Bank Transfer,Bob,Bangalore,Yes
+2025-01-09,Freelancing,1908.91,Income,Electricity bill,UPI,Charlie,Bangalore,No
+2025-01-09,Dining,776.17,Expense,Amazon purchase,Card,Charlie,Delhi,No
+2025-01-09,Investments,3037.07,Income,Freelance project,UPI,Diana,Delhi,Yes
+2025-01-09,Healthcare,119.0,Expense,Uber ride,Cash,Bob,Chennai,Yes
+2025-01-09,Investments,3013.97,Income,Amazon purchase,Card,Charlie,Bangalore,Yes
+2025-01-10,Salary,2209.19,Income,Stock investment,Card,Alice,Delhi,No
+2025-01-10,Dining,355.36,Expense,Freelance project,Card,Alice,Delhi,No
+2025-01-10,Healthcare,251.06,Expense,Gym membership,Cash,Alice,Chennai,Yes
+2025-01-10,Rent,510.38,Expense,Stock investment,Bank Transfer,Diana,Delhi,No
+2025-01-10,Shopping,1068.86,Expense,Groceries at Big Bazaar,UPI,Alice,Bangalore,No
+2025-01-10,Freelancing,642.2,Income,Gym membership,Card,Alice,Mumbai,Yes
+2025-01-11,Groceries,1446.13,Expense,Groceries at Big Bazaar,Bank Transfer,Bob,Chennai,No
+2025-01-11,Groceries,1446.35,Expense,Groceries at Big Bazaar,Cash,Alice,Mumbai,Yes
+2025-01-11,Healthcare,1018.73,Expense,Uber ride,Bank Transfer,Alice,Bangalore,No
+2025-01-12,Shopping,1164.7,Expense,Stock investment,UPI,Diana,Chennai,No
+2025-01-12,Salary,555.14,Income,Electricity bill,Card,Diana,Delhi,Yes
+2025-01-12,Dining,892.49,Expense,Freelance project,Bank Transfer,Alice,Mumbai,No
+2025-01-12,Transport,841.21,Expense,Amazon purchase,Bank Transfer,Diana,Bangalore,Yes
+2025-01-12,Transport,1254.99,Expense,Gym membership,Bank Transfer,Charlie,Mumbai,No
+2025-01-12,Utilities,1351.5,Expense,Amazon purchase,Bank Transfer,Alice,Mumbai,No
+2025-01-13,Utilities,170.38,Expense,Groceries at Big Bazaar,Card,Bob,Bangalore,No
+2025-01-13,Rent,186.05,Expense,Gym membership,Cash,Alice,Bangalore,No
+2025-01-13,Freelancing,2069.61,Income,Gym membership,UPI,Alice,Bangalore,Yes
+2025-01-13,Shopping,733.95,Expense,Uber ride,Card,Alice,Delhi,Yes
+2025-01-13,Groceries,661.82,Expense,Amazon purchase,Cash,Diana,Mumbai,Yes
+2025-01-13,Salary,3371.64,Income,Freelance project,UPI,Diana,Bangalore,No
+2025-01-13,Transport,1021.93,Expense,Electricity bill,UPI,Diana,Mumbai,No
+2025-01-14,Transport,1478.26,Expense,Gym membership,Card,Bob,Chennai,Yes
+2025-01-14,Groceries,339.03,Expense,Stock investment,Bank Transfer,Charlie,Bangalore,No
+2025-01-14,Rent,1486.03,Expense,Uber ride,Bank Transfer,Diana,Chennai,No
+2025-01-14,Transport,758.02,Expense,Stock investment,Cash,Bob,Bangalore,No
+2025-01-15,Salary,1583.35,Income,Gym membership,UPI,Diana,Delhi,Yes
+2025-01-15,Investments,2605.47,Income,Gym membership,Cash,Diana,Mumbai,No
+2025-01-15,Salary,2961.86,Income,Amazon purchase,Cash,Diana,Chennai,Yes
+2025-01-16,Utilities,1451.77,Expense,Groceries at Big Bazaar,Card,Diana,Bangalore,No
+2025-01-16,Investments,1957.94,Income,Freelance project,UPI,Alice,Delhi,Yes
+2025-01-16,Shopping,165.35,Expense,Groceries at Big Bazaar,UPI,Bob,Mumbai,Yes
+2025-01-16,Utilities,253.62,Expense,Stock investment,Cash,Alice,Mumbai,No
+2025-01-16,Utilities,500.99,Expense,Groceries at Big Bazaar,Card,Alice,Delhi,Yes
+2025-01-16,Rent,878.87,Expense,Freelance project,Card,Diana,Bangalore,No
+2025-01-16,Freelancing,1467.75,Income,Uber ride,UPI,Diana,Mumbai,No
+2025-01-16,Healthcare,153.86,Expense,Uber ride,Bank Transfer,Bob,Mumbai,Yes
+2025-01-16,Healthcare,525.44,Expense,Uber ride,Bank Transfer,Alice,Bangalore,No
+2025-01-17,Freelancing,2105.31,Income,Uber ride,Cash,Charlie,Delhi,No
+2025-01-17,Utilities,1354.49,Expense,Electricity bill,Cash,Diana,Mumbai,Yes
+2025-01-17,Groceries,104.68,Expense,Freelance project,Card,Diana,Chennai,No
+2025-01-17,Rent,72.18,Expense,Uber ride,Bank Transfer,Alice,Delhi,Yes
+2025-01-17,Dining,1422.57,Expense,Electricity bill,Card,Charlie,Bangalore,Yes
+2025-01-17,Freelancing,1079.99,Income,Zomato order,Card,Alice,Delhi,No
+2025-01-18,Shopping,414.95,Expense,Zomato order,Cash,Charlie,Bangalore,No
+2025-01-18,Healthcare,1183.27,Expense,Amazon purchase,Cash,Alice,Bangalore,No
+2025-01-20,Transport,582.09,Expense,Groceries at Big Bazaar,UPI,Alice,Bangalore,No
+2025-01-20,Transport,341.05,Expense,Zomato order,UPI,Alice,Bangalore,No
+2025-01-20,Groceries,1326.98,Expense,Uber ride,Card,Charlie,Delhi,No
+2025-01-20,Groceries,1154.84,Expense,Zomato order,UPI,Alice,Delhi,No
+2025-01-20,Shopping,87.61,Expense,Stock investment,UPI,Charlie,Delhi,No
+2025-01-21,Utilities,692.24,Expense,Uber ride,UPI,Diana,Bangalore,Yes
+2025-01-21,Investments,2143.67,Income,Electricity bill,Card,Diana,Bangalore,No
+2025-01-21,Freelancing,550.88,Income,Electricity bill,Cash,Charlie,Chennai,Yes
+2025-01-21,Rent,1335.49,Expense,Amazon purchase,Card,Diana,Mumbai,No
+2025-01-21,Utilities,846.73,Expense,Stock investment,Card,Bob,Chennai,No
+2025-01-22,Rent,1392.61,Expense,Freelance project,Bank Transfer,Bob,Delhi,No
+2025-01-22,Rent,823.0,Expense,Electricity bill,UPI,Charlie,Delhi,Yes
+2025-01-23,Shopping,1405.7,Expense,Electricity bill,Card,Bob,Delhi,Yes
+2025-01-23,Salary,1872.48,Income,Uber ride,Cash,Alice,Bangalore,Yes
+2025-01-23,Freelancing,3959.66,Income,Amazon purchase,UPI,Diana,Bangalore,No
+2025-01-23,Investments,2629.09,Income,Amazon purchase,Cash,Charlie,Mumbai,Yes
+2025-01-23,Dining,348.68,Expense,Freelance project,UPI,Charlie,Mumbai,No
+2025-01-24,Transport,375.16,Expense,Groceries at Big Bazaar,Card,Bob,Delhi,No
+2025-01-24,Healthcare,612.89,Expense,Stock investment,Card,Alice,Mumbai,No
+2025-01-24,Healthcare,1034.04,Expense,Amazon purchase,Bank Transfer,Diana,Chennai,Yes
+2025-01-24,Healthcare,1133.32,Expense,Stock investment,Cash,Bob,Bangalore,No
+2025-01-24,Transport,422.08,Expense,Amazon purchase,UPI,Diana,Bangalore,No
+2025-01-24,Healthcare,1114.04,Expense,Gym membership,Cash,Diana,Chennai,Yes
+2025-01-24,Transport,1206.66,Expense,Groceries at Big Bazaar,Bank Transfer,Bob,Bangalore,Yes
+2025-01-25,Healthcare,763.36,Expense,Uber ride,Cash,Charlie,Chennai,Yes
+2025-01-25,Transport,1033.84,Expense,Amazon purchase,Bank Transfer,Diana,Bangalore,Yes
+2025-01-25,Dining,1324.1,Expense,Groceries at Big Bazaar,Card,Alice,Chennai,Yes
+2025-01-25,Investments,2464.19,Income,Stock investment,UPI,Charlie,Chennai,Yes
+2025-01-25,Dining,1435.69,Expense,Electricity bill,Card,Bob,Bangalore,Yes
+2025-01-26,Groceries,404.14,Expense,Electricity bill,Cash,Charlie,Bangalore,No
+2025-01-26,Rent,532.03,Expense,Freelance project,Card,Diana,Bangalore,Yes
+2025-01-26,Utilities,208.24,Expense,Stock investment,UPI,Charlie,Delhi,Yes
+2025-01-26,Salary,3550.06,Income,Zomato order,Bank Transfer,Bob,Bangalore,No
+2025-01-27,Transport,1274.7,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Bangalore,No
+2025-01-27,Freelancing,1840.33,Income,Amazon purchase,Cash,Charlie,Bangalore,Yes
+2025-01-27,Rent,511.1,Expense,Stock investment,Card,Charlie,Delhi,No
+2025-01-27,Groceries,1286.57,Expense,Groceries at Big Bazaar,Card,Diana,Delhi,Yes
+2025-01-27,Groceries,363.04,Expense,Stock investment,Cash,Diana,Delhi,Yes
+2025-01-27,Rent,297.13,Expense,Zomato order,Cash,Charlie,Delhi,Yes
+2025-01-27,Dining,316.86,Expense,Zomato order,Cash,Alice,Delhi,Yes
+2025-01-27,Dining,158.99,Expense,Freelance project,Cash,Alice,Chennai,No
+2025-01-27,Healthcare,994.52,Expense,Groceries at Big Bazaar,UPI,Diana,Mumbai,No
+2025-01-28,Investments,1007.08,Income,Stock investment,UPI,Bob,Mumbai,No
+2025-01-28,Investments,3534.01,Income,Groceries at Big Bazaar,Cash,Diana,Bangalore,No
+2025-01-28,Investments,1245.95,Income,Groceries at Big Bazaar,Card,Diana,Bangalore,No
+2025-01-28,Transport,416.57,Expense,Amazon purchase,Bank Transfer,Alice,Bangalore,Yes
+2025-01-28,Healthcare,338.93,Expense,Amazon purchase,Card,Charlie,Delhi,No
+2025-01-28,Shopping,701.45,Expense,Amazon purchase,Cash,Bob,Chennai,Yes
+2025-01-28,Utilities,967.45,Expense,Amazon purchase,Cash,Bob,Bangalore,Yes
+2025-01-28,Groceries,273.11,Expense,Electricity bill,Cash,Bob,Chennai,Yes
+2025-01-29,Dining,159.82,Expense,Stock investment,Cash,Bob,Chennai,Yes
+2025-01-29,Utilities,853.22,Expense,Uber ride,UPI,Alice,Chennai,Yes
+2025-01-29,Freelancing,2023.34,Income,Zomato order,Card,Charlie,Bangalore,Yes
+2025-01-29,Utilities,216.04,Expense,Freelance project,Card,Bob,Chennai,Yes
+2025-01-30,Dining,1143.63,Expense,Uber ride,Card,Charlie,Bangalore,No
+2025-01-30,Dining,1199.66,Expense,Groceries at Big Bazaar,UPI,Alice,Delhi,No
+2025-01-30,Dining,953.24,Expense,Uber ride,Cash,Alice,Mumbai,Yes
+2025-01-30,Investments,3352.01,Income,Freelance project,Bank Transfer,Alice,Bangalore,Yes
+2025-01-30,Dining,375.99,Expense,Uber ride,Bank Transfer,Alice,Delhi,Yes
+2025-01-31,Salary,1157.92,Income,Electricity bill,Card,Diana,Mumbai,Yes
+2025-01-31,Utilities,528.43,Expense,Freelance project,Cash,Bob,Bangalore,No
+2025-01-31,Groceries,431.41,Expense,Stock investment,Cash,Alice,Mumbai,Yes
+2025-01-31,Groceries,179.35,Expense,Groceries at Big Bazaar,Cash,Bob,Bangalore,No
+2025-01-31,Rent,1384.75,Expense,Amazon purchase,Cash,Charlie,Mumbai,Yes
+2025-01-31,Groceries,373.57,Expense,Zomato order,Bank Transfer,Alice,Delhi,No
+2025-02-01,Utilities,629.04,Expense,Groceries at Big Bazaar,UPI,Bob,Bangalore,No
+2025-02-01,Investments,830.64,Income,Electricity bill,Cash,Bob,Chennai,No
+2025-02-01,Shopping,788.15,Expense,Electricity bill,Bank Transfer,Bob,Bangalore,No
+2025-02-01,Transport,110.7,Expense,Amazon purchase,UPI,Bob,Delhi,Yes
+2025-02-01,Utilities,56.42,Expense,Zomato order,Bank Transfer,Alice,Mumbai,No
+2025-02-01,Freelancing,1264.05,Income,Amazon purchase,UPI,Bob,Mumbai,Yes
+2025-02-01,Dining,1254.13,Expense,Uber ride,Bank Transfer,Alice,Chennai,No
+2025-02-01,Groceries,1034.9,Expense,Zomato order,Cash,Alice,Bangalore,Yes
+2025-02-02,Utilities,534.79,Expense,Freelance project,Card,Alice,Mumbai,No
+2025-02-02,Investments,2823.32,Income,Freelance project,Card,Bob,Chennai,Yes
+2025-02-02,Shopping,737.8,Expense,Freelance project,Cash,Alice,Chennai,Yes
+2025-02-02,Freelancing,528.0,Income,Electricity bill,UPI,Charlie,Chennai,No
+2025-02-03,Groceries,775.17,Expense,Zomato order,Bank Transfer,Charlie,Chennai,No
+2025-02-03,Investments,2094.75,Income,Electricity bill,Bank Transfer,Bob,Bangalore,Yes
+2025-02-03,Dining,905.13,Expense,Zomato order,Cash,Diana,Chennai,No
+2025-02-03,Rent,335.45,Expense,Groceries at Big Bazaar,UPI,Alice,Chennai,No
+2025-02-03,Rent,1119.69,Expense,Amazon purchase,Card,Charlie,Chennai,No
+2025-02-03,Dining,390.34,Expense,Freelance project,UPI,Diana,Bangalore,No
+2025-02-03,Shopping,683.4,Expense,Groceries at Big Bazaar,Cash,Diana,Delhi,Yes
+2025-02-04,Transport,1412.42,Expense,Electricity bill,Cash,Diana,Bangalore,No
+2025-02-04,Rent,1292.19,Expense,Uber ride,Card,Alice,Mumbai,No
+2025-02-04,Salary,1698.7,Income,Zomato order,Cash,Charlie,Mumbai,No
+2025-02-04,Freelancing,2385.67,Income,Stock investment,Card,Diana,Bangalore,No
+2025-02-05,Salary,1061.76,Income,Gym membership,Card,Diana,Chennai,Yes
+2025-02-05,Utilities,617.78,Expense,Amazon purchase,Card,Alice,Bangalore,Yes
+2025-02-06,Salary,2828.19,Income,Zomato order,Cash,Diana,Bangalore,No
+2025-02-06,Transport,1328.86,Expense,Gym membership,Bank Transfer,Bob,Bangalore,No
+2025-02-06,Groceries,932.42,Expense,Stock investment,UPI,Alice,Chennai,No
+2025-02-06,Healthcare,83.23,Expense,Stock investment,UPI,Diana,Delhi,Yes
+2025-02-06,Investments,1349.57,Income,Zomato order,UPI,Charlie,Delhi,No
+2025-02-06,Dining,443.85,Expense,Stock investment,Bank Transfer,Bob,Bangalore,Yes
+2025-02-06,Healthcare,1124.26,Expense,Gym membership,Card,Bob,Bangalore,Yes
+2025-02-07,Freelancing,2665.79,Income,Electricity bill,Bank Transfer,Diana,Chennai,No
+2025-02-07,Investments,3814.85,Income,Zomato order,Cash,Diana,Bangalore,No
+2025-02-07,Transport,669.85,Expense,Groceries at Big Bazaar,Card,Charlie,Chennai,Yes
+2025-02-07,Investments,1438.05,Income,Zomato order,UPI,Diana,Mumbai,Yes
+2025-02-07,Dining,313.47,Expense,Groceries at Big Bazaar,UPI,Diana,Delhi,Yes
+2025-02-08,Investments,1111.04,Income,Amazon purchase,UPI,Bob,Delhi,Yes
+2025-02-08,Freelancing,3101.43,Income,Zomato order,Card,Charlie,Chennai,Yes
+2025-02-09,Investments,536.38,Income,Gym membership,Cash,Alice,Delhi,Yes
+2025-02-09,Salary,1461.02,Income,Stock investment,Bank Transfer,Alice,Bangalore,No
+2025-02-09,Dining,95.8,Expense,Amazon purchase,Bank Transfer,Alice,Delhi,Yes
+2025-02-09,Rent,1050.25,Expense,Gym membership,UPI,Charlie,Bangalore,Yes
+2025-02-09,Dining,360.86,Expense,Gym membership,Cash,Charlie,Bangalore,No
+2025-02-10,Transport,470.85,Expense,Gym membership,Bank Transfer,Charlie,Delhi,No
+2025-02-10,Groceries,1080.63,Expense,Uber ride,Card,Alice,Mumbai,No
+2025-02-10,Transport,427.8,Expense,Groceries at Big Bazaar,UPI,Alice,Bangalore,No
+2025-02-10,Healthcare,312.46,Expense,Gym membership,Cash,Alice,Mumbai,No
+2025-02-10,Groceries,1249.93,Expense,Groceries at Big Bazaar,Card,Diana,Chennai,No
+2025-02-10,Freelancing,962.79,Income,Stock investment,Cash,Alice,Mumbai,Yes
+2025-02-10,Freelancing,1416.5,Income,Gym membership,Cash,Diana,Delhi,Yes
+2025-02-11,Freelancing,1236.43,Income,Gym membership,UPI,Alice,Delhi,No
+2025-02-11,Healthcare,204.62,Expense,Zomato order,UPI,Charlie,Mumbai,Yes
+2025-02-11,Rent,162.8,Expense,Groceries at Big Bazaar,Bank Transfer,Alice,Mumbai,Yes
+2025-02-11,Shopping,806.47,Expense,Uber ride,Bank Transfer,Bob,Bangalore,No
+2025-02-12,Groceries,792.46,Expense,Amazon purchase,Bank Transfer,Charlie,Delhi,No
+2025-02-12,Investments,3284.62,Income,Electricity bill,Card,Diana,Delhi,Yes
+2025-02-12,Healthcare,1201.66,Expense,Uber ride,Card,Charlie,Bangalore,No
+2025-02-12,Freelancing,3094.51,Income,Freelance project,Cash,Alice,Bangalore,No
+2025-02-12,Salary,2602.88,Income,Uber ride,UPI,Diana,Bangalore,No
+2025-02-12,Shopping,1126.27,Expense,Amazon purchase,UPI,Bob,Mumbai,No
+2025-02-12,Dining,647.98,Expense,Stock investment,Cash,Bob,Delhi,Yes
+2025-02-13,Investments,2571.72,Income,Amazon purchase,UPI,Charlie,Delhi,No
+2025-02-13,Investments,2408.81,Income,Amazon purchase,UPI,Bob,Bangalore,No
+2025-02-13,Rent,724.98,Expense,Uber ride,Cash,Alice,Mumbai,No
+2025-02-13,Shopping,572.24,Expense,Freelance project,Card,Bob,Mumbai,No
+2025-02-14,Rent,383.32,Expense,Freelance project,Bank Transfer,Bob,Chennai,Yes
+2025-02-14,Transport,1397.67,Expense,Uber ride,UPI,Bob,Delhi,No
+2025-02-14,Investments,1370.63,Income,Uber ride,Card,Diana,Mumbai,No
+2025-02-15,Healthcare,63.38,Expense,Amazon purchase,UPI,Alice,Chennai,Yes
+2025-02-15,Salary,3924.9,Income,Uber ride,Cash,Alice,Mumbai,Yes
+2025-02-15,Healthcare,405.83,Expense,Stock investment,Bank Transfer,Diana,Chennai,Yes
+2025-02-15,Transport,875.87,Expense,Freelance project,UPI,Diana,Chennai,No
+2025-02-15,Utilities,459.9,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Delhi,Yes
+2025-02-15,Utilities,992.53,Expense,Electricity bill,Cash,Charlie,Delhi,Yes
+2025-02-15,Shopping,813.55,Expense,Uber ride,UPI,Alice,Chennai,Yes
+2025-02-15,Utilities,130.06,Expense,Gym membership,UPI,Alice,Chennai,No
+2025-02-15,Healthcare,872.03,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Mumbai,No
+2025-02-16,Shopping,1380.44,Expense,Gym membership,Bank Transfer,Alice,Delhi,Yes
+2025-02-16,Salary,2383.03,Income,Uber ride,Cash,Diana,Bangalore,Yes
+2025-02-16,Utilities,1062.39,Expense,Amazon purchase,UPI,Diana,Bangalore,No
+2025-02-16,Investments,3795.44,Income,Stock investment,Bank Transfer,Alice,Bangalore,No
+2025-02-16,Rent,1198.01,Expense,Uber ride,Bank Transfer,Diana,Chennai,Yes
+2025-02-17,Transport,1407.65,Expense,Electricity bill,Card,Bob,Delhi,No
+2025-02-17,Groceries,774.5,Expense,Uber ride,Bank Transfer,Alice,Chennai,Yes
+2025-02-17,Rent,171.72,Expense,Zomato order,Bank Transfer,Alice,Mumbai,No
+2025-02-18,Shopping,1339.85,Expense,Groceries at Big Bazaar,Cash,Diana,Chennai,Yes
+2025-02-18,Healthcare,720.48,Expense,Gym membership,Bank Transfer,Bob,Delhi,Yes
+2025-02-18,Transport,1488.35,Expense,Freelance project,Card,Bob,Bangalore,No
+2025-02-18,Dining,52.69,Expense,Stock investment,Bank Transfer,Bob,Chennai,Yes
+2025-02-18,Utilities,1277.96,Expense,Freelance project,Cash,Bob,Bangalore,No
+2025-02-18,Freelancing,1033.15,Income,Zomato order,UPI,Bob,Mumbai,No
+2025-02-18,Dining,568.47,Expense,Zomato order,Cash,Bob,Delhi,No
+2025-02-18,Shopping,602.73,Expense,Amazon purchase,Bank Transfer,Charlie,Chennai,Yes
+2025-02-19,Dining,72.6,Expense,Freelance project,Card,Diana,Delhi,No
+2025-02-19,Groceries,1037.19,Expense,Groceries at Big Bazaar,Card,Diana,Delhi,Yes
+2025-02-19,Salary,855.71,Income,Amazon purchase,Bank Transfer,Diana,Chennai,No
+2025-02-19,Transport,514.39,Expense,Freelance project,Card,Bob,Chennai,Yes
+2025-02-19,Investments,1689.51,Income,Zomato order,Bank Transfer,Bob,Mumbai,No
+2025-02-19,Transport,1297.16,Expense,Electricity bill,Bank Transfer,Charlie,Bangalore,No
+2025-02-19,Freelancing,3807.2,Income,Amazon purchase,Cash,Alice,Chennai,Yes
+2025-02-19,Transport,224.73,Expense,Electricity bill,Card,Diana,Mumbai,No
+2025-02-20,Salary,2853.45,Income,Stock investment,Bank Transfer,Charlie,Delhi,Yes
+2025-02-20,Salary,3481.38,Income,Gym membership,UPI,Charlie,Delhi,Yes
+2025-02-20,Rent,120.39,Expense,Amazon purchase,Bank Transfer,Charlie,Chennai,Yes
+2025-02-20,Utilities,857.0,Expense,Uber ride,Card,Charlie,Bangalore,Yes
+2025-02-20,Healthcare,825.57,Expense,Amazon purchase,Cash,Charlie,Delhi,Yes
+2025-02-20,Transport,256.94,Expense,Zomato order,UPI,Alice,Bangalore,Yes
+2025-02-20,Transport,1064.26,Expense,Amazon purchase,Cash,Charlie,Chennai,Yes
+2025-02-20,Investments,2355.59,Income,Gym membership,Bank Transfer,Charlie,Mumbai,Yes
+2025-02-21,Healthcare,575.35,Expense,Uber ride,Cash,Diana,Chennai,Yes
+2025-02-21,Shopping,645.22,Expense,Zomato order,Bank Transfer,Charlie,Bangalore,No
+2025-02-21,Healthcare,447.34,Expense,Zomato order,Bank Transfer,Alice,Chennai,No
+2025-02-21,Investments,3577.88,Income,Groceries at Big Bazaar,UPI,Charlie,Chennai,No
+2025-02-22,Shopping,415.86,Expense,Electricity bill,Cash,Bob,Delhi,Yes
+2025-02-22,Groceries,980.65,Expense,Amazon purchase,Cash,Bob,Mumbai,Yes
+2025-02-22,Healthcare,727.96,Expense,Groceries at Big Bazaar,UPI,Alice,Delhi,Yes
+2025-02-22,Shopping,1029.37,Expense,Freelance project,Card,Diana,Chennai,No
+2025-02-22,Shopping,506.93,Expense,Freelance project,UPI,Diana,Mumbai,No
+2025-02-22,Dining,285.19,Expense,Groceries at Big Bazaar,Card,Diana,Chennai,No
+2025-02-23,Salary,1288.29,Income,Amazon purchase,UPI,Charlie,Chennai,No
+2025-02-23,Rent,947.47,Expense,Gym membership,Cash,Bob,Mumbai,No
+2025-02-23,Investments,850.06,Income,Uber ride,Card,Charlie,Bangalore,No
+2025-02-24,Investments,1547.34,Income,Amazon purchase,Card,Diana,Bangalore,No
+2025-02-24,Transport,408.73,Expense,Freelance project,Cash,Charlie,Bangalore,No
+2025-02-24,Shopping,1002.07,Expense,Stock investment,UPI,Diana,Chennai,No
+2025-02-24,Transport,630.48,Expense,Gym membership,Card,Alice,Delhi,Yes
+2025-02-24,Shopping,765.13,Expense,Zomato order,Bank Transfer,Alice,Chennai,No
+2025-02-24,Investments,3517.45,Income,Amazon purchase,Card,Bob,Bangalore,No
+2025-02-24,Utilities,1446.32,Expense,Stock investment,Card,Charlie,Delhi,No
+2025-02-24,Investments,3526.54,Income,Freelance project,UPI,Bob,Bangalore,Yes
+2025-02-25,Shopping,501.84,Expense,Gym membership,Bank Transfer,Bob,Delhi,No
+2025-02-25,Investments,2010.7,Income,Zomato order,Card,Bob,Bangalore,Yes
+2025-02-25,Rent,261.05,Expense,Freelance project,UPI,Alice,Delhi,No
+2025-02-25,Dining,488.0,Expense,Zomato order,Card,Diana,Bangalore,No
+2025-02-25,Dining,934.43,Expense,Uber ride,Bank Transfer,Charlie,Bangalore,Yes
+2025-02-25,Freelancing,860.57,Income,Stock investment,Card,Charlie,Delhi,Yes
+2025-02-25,Groceries,237.21,Expense,Groceries at Big Bazaar,Cash,Alice,Chennai,Yes
+2025-02-25,Utilities,1150.36,Expense,Freelance project,UPI,Alice,Delhi,No
+2025-02-26,Transport,569.25,Expense,Zomato order,Card,Alice,Bangalore,Yes
+2025-02-26,Freelancing,2777.02,Income,Groceries at Big Bazaar,Card,Charlie,Delhi,Yes
+2025-02-26,Salary,2303.99,Income,Freelance project,Card,Bob,Mumbai,Yes
+2025-02-26,Transport,688.95,Expense,Amazon purchase,Card,Alice,Delhi,No
+2025-02-26,Rent,1264.08,Expense,Amazon purchase,Card,Diana,Delhi,No
+2025-02-26,Groceries,548.02,Expense,Zomato order,UPI,Diana,Mumbai,No
+2025-02-26,Salary,937.01,Income,Amazon purchase,UPI,Charlie,Mumbai,No
+2025-02-26,Shopping,1108.63,Expense,Uber ride,UPI,Alice,Chennai,Yes
+2025-02-26,Freelancing,3883.84,Income,Zomato order,Cash,Diana,Bangalore,Yes
+2025-02-27,Utilities,129.98,Expense,Stock investment,UPI,Diana,Delhi,Yes
+2025-02-27,Dining,495.45,Expense,Amazon purchase,UPI,Charlie,Bangalore,Yes
+2025-02-28,Shopping,170.14,Expense,Zomato order,Bank Transfer,Charlie,Chennai,Yes
+2025-02-28,Freelancing,3060.81,Income,Freelance project,Cash,Diana,Chennai,Yes
+2025-02-28,Salary,1694.05,Income,Gym membership,Card,Charlie,Mumbai,No
+2025-03-01,Freelancing,1006.91,Income,Uber ride,Bank Transfer,Bob,Mumbai,Yes
+2025-03-01,Shopping,353.71,Expense,Zomato order,Bank Transfer,Bob,Bangalore,Yes
+2025-03-01,Dining,1008.48,Expense,Gym membership,Bank Transfer,Bob,Mumbai,Yes
+2025-03-01,Groceries,913.56,Expense,Electricity bill,Bank Transfer,Alice,Delhi,No
+2025-03-01,Rent,730.91,Expense,Uber ride,Cash,Alice,Delhi,No
+2025-03-01,Rent,886.21,Expense,Amazon purchase,Bank Transfer,Diana,Delhi,No
+2025-03-01,Dining,536.53,Expense,Zomato order,Bank Transfer,Diana,Delhi,Yes
+2025-03-02,Healthcare,899.52,Expense,Electricity bill,UPI,Bob,Chennai,No
+2025-03-02,Transport,369.46,Expense,Zomato order,UPI,Alice,Mumbai,No
+2025-03-02,Dining,716.05,Expense,Amazon purchase,Card,Bob,Delhi,Yes
+2025-03-02,Rent,1362.76,Expense,Freelance project,Cash,Charlie,Mumbai,Yes
+2025-03-02,Salary,2241.22,Income,Gym membership,Cash,Bob,Delhi,Yes
+2025-03-03,Healthcare,1045.34,Expense,Stock investment,UPI,Bob,Delhi,No
+2025-03-03,Transport,492.56,Expense,Gym membership,Card,Alice,Mumbai,Yes
+2025-03-03,Dining,806.6,Expense,Gym membership,Cash,Charlie,Mumbai,Yes
+2025-03-03,Rent,133.4,Expense,Electricity bill,UPI,Bob,Bangalore,No
+2025-03-03,Freelancing,1411.24,Income,Groceries at Big Bazaar,Bank Transfer,Bob,Mumbai,Yes
+2025-03-03,Salary,3023.05,Income,Groceries at Big Bazaar,UPI,Bob,Delhi,No
+2025-03-03,Healthcare,340.54,Expense,Amazon purchase,Bank Transfer,Charlie,Bangalore,Yes
+2025-03-03,Shopping,128.57,Expense,Gym membership,Cash,Diana,Delhi,Yes
+2025-03-04,Dining,478.98,Expense,Gym membership,Bank Transfer,Diana,Delhi,No
+2025-03-04,Freelancing,3636.41,Income,Gym membership,UPI,Charlie,Bangalore,No
+2025-03-04,Investments,3956.63,Income,Electricity bill,Card,Charlie,Bangalore,Yes
+2025-03-05,Utilities,349.71,Expense,Amazon purchase,Bank Transfer,Bob,Bangalore,Yes
+2025-03-05,Transport,874.5,Expense,Gym membership,UPI,Diana,Delhi,Yes
+2025-03-05,Utilities,1380.93,Expense,Zomato order,Bank Transfer,Diana,Mumbai,No
+2025-03-05,Transport,876.79,Expense,Gym membership,Bank Transfer,Alice,Delhi,No
+2025-03-05,Investments,1417.59,Income,Amazon purchase,Card,Diana,Bangalore,No
+2025-03-05,Investments,587.76,Income,Stock investment,Cash,Charlie,Chennai,No
+2025-03-05,Freelancing,2412.39,Income,Amazon purchase,UPI,Alice,Chennai,Yes
+2025-03-05,Shopping,233.93,Expense,Uber ride,Card,Diana,Delhi,Yes
+2025-03-05,Transport,974.64,Expense,Zomato order,UPI,Alice,Mumbai,No
+2025-03-06,Freelancing,3738.77,Income,Groceries at Big Bazaar,Cash,Bob,Chennai,No
+2025-03-06,Investments,2790.04,Income,Groceries at Big Bazaar,UPI,Alice,Bangalore,Yes
+2025-03-06,Freelancing,956.34,Income,Stock investment,Cash,Bob,Mumbai,Yes
+2025-03-06,Investments,2193.67,Income,Stock investment,Cash,Alice,Bangalore,No
+2025-03-07,Utilities,1240.4,Expense,Electricity bill,Bank Transfer,Diana,Mumbai,No
+2025-03-07,Utilities,574.63,Expense,Freelance project,UPI,Alice,Mumbai,No
+2025-03-07,Groceries,788.86,Expense,Stock investment,Bank Transfer,Diana,Mumbai,Yes
+2025-03-08,Shopping,202.63,Expense,Groceries at Big Bazaar,Card,Alice,Delhi,No
+2025-03-08,Groceries,571.16,Expense,Gym membership,Card,Bob,Bangalore,Yes
+2025-03-08,Salary,2066.1,Income,Uber ride,UPI,Alice,Bangalore,No
+2025-03-08,Rent,310.71,Expense,Gym membership,Card,Charlie,Chennai,No
+2025-03-08,Investments,667.71,Income,Zomato order,Cash,Charlie,Bangalore,No
+2025-03-08,Salary,2285.35,Income,Amazon purchase,UPI,Diana,Mumbai,Yes
+2025-03-08,Groceries,1402.3,Expense,Zomato order,UPI,Bob,Bangalore,Yes
+2025-03-08,Shopping,649.25,Expense,Stock investment,Card,Diana,Chennai,Yes
+2025-03-08,Groceries,664.93,Expense,Freelance project,Cash,Bob,Chennai,No
+2025-03-08,Investments,2353.0,Income,Gym membership,Cash,Charlie,Chennai,Yes
+2025-03-08,Healthcare,1218.92,Expense,Stock investment,Bank Transfer,Bob,Bangalore,No
+2025-03-09,Groceries,242.45,Expense,Stock investment,Bank Transfer,Diana,Chennai,Yes
+2025-03-09,Dining,1140.17,Expense,Uber ride,Card,Alice,Bangalore,No
+2025-03-09,Salary,1036.83,Income,Freelance project,Card,Bob,Chennai,No
+2025-03-09,Shopping,649.07,Expense,Gym membership,UPI,Charlie,Chennai,No
+2025-03-09,Freelancing,1682.84,Income,Electricity bill,Cash,Bob,Chennai,Yes
+2025-03-10,Salary,806.19,Income,Stock investment,Cash,Charlie,Chennai,Yes
+2025-03-10,Utilities,1010.01,Expense,Gym membership,Cash,Alice,Mumbai,No
+2025-03-10,Investments,3724.14,Income,Zomato order,Cash,Diana,Bangalore,No
+2025-03-10,Dining,733.12,Expense,Uber ride,Card,Bob,Bangalore,No
+2025-03-10,Investments,3050.37,Income,Gym membership,Cash,Bob,Mumbai,No
+2025-03-10,Investments,2530.92,Income,Zomato order,Card,Diana,Delhi,No
+2025-03-10,Transport,771.52,Expense,Stock investment,Card,Bob,Bangalore,Yes
+2025-03-10,Transport,1229.35,Expense,Freelance project,UPI,Bob,Delhi,Yes
+2025-03-10,Shopping,1480.6,Expense,Zomato order,Cash,Diana,Delhi,Yes
+2025-03-11,Rent,948.55,Expense,Zomato order,Card,Bob,Mumbai,Yes
+2025-03-11,Dining,1222.03,Expense,Amazon purchase,Cash,Diana,Mumbai,Yes
+2025-03-11,Transport,1255.89,Expense,Zomato order,UPI,Alice,Delhi,No
+2025-03-11,Investments,1789.1,Income,Groceries at Big Bazaar,Cash,Charlie,Delhi,Yes
+2025-03-11,Shopping,119.45,Expense,Uber ride,Card,Diana,Bangalore,No
+2025-03-11,Healthcare,1338.03,Expense,Freelance project,UPI,Bob,Bangalore,No
+2025-03-11,Healthcare,1144.14,Expense,Electricity bill,UPI,Bob,Bangalore,Yes
+2025-03-11,Shopping,1233.54,Expense,Stock investment,Card,Diana,Chennai,Yes
+2025-03-12,Salary,3262.07,Income,Groceries at Big Bazaar,Cash,Diana,Delhi,No
+2025-03-12,Salary,3481.0,Income,Amazon purchase,Cash,Charlie,Mumbai,Yes
+2025-03-12,Utilities,426.39,Expense,Freelance project,UPI,Bob,Delhi,Yes
+2025-03-12,Utilities,1432.78,Expense,Freelance project,UPI,Charlie,Delhi,No
+2025-03-12,Dining,1234.66,Expense,Stock investment,Cash,Diana,Mumbai,Yes
+2025-03-12,Freelancing,3862.51,Income,Stock investment,UPI,Charlie,Mumbai,Yes
+2025-03-13,Healthcare,607.43,Expense,Zomato order,Cash,Diana,Delhi,No
+2025-03-13,Dining,908.82,Expense,Uber ride,UPI,Charlie,Chennai,No
+2025-03-14,Dining,376.83,Expense,Gym membership,Card,Bob,Mumbai,Yes
+2025-03-14,Salary,1876.88,Income,Electricity bill,Cash,Alice,Mumbai,Yes
+2025-03-15,Utilities,1169.65,Expense,Zomato order,UPI,Diana,Mumbai,No
+2025-03-16,Transport,751.08,Expense,Electricity bill,UPI,Charlie,Chennai,Yes
+2025-03-16,Utilities,883.42,Expense,Freelance project,Cash,Alice,Chennai,No
+2025-03-16,Rent,1020.79,Expense,Freelance project,Bank Transfer,Charlie,Delhi,Yes
+2025-03-16,Transport,442.07,Expense,Amazon purchase,UPI,Diana,Chennai,No
+2025-03-16,Utilities,298.49,Expense,Amazon purchase,UPI,Bob,Mumbai,No
+2025-03-16,Groceries,1313.16,Expense,Gym membership,UPI,Diana,Mumbai,Yes
+2025-03-16,Rent,889.04,Expense,Gym membership,Card,Diana,Mumbai,Yes
+2025-03-16,Investments,1668.86,Income,Groceries at Big Bazaar,UPI,Bob,Chennai,Yes
+2025-03-16,Rent,1176.53,Expense,Uber ride,Bank Transfer,Alice,Delhi,Yes
+2025-03-16,Rent,240.24,Expense,Electricity bill,Bank Transfer,Charlie,Mumbai,No
+2025-03-17,Groceries,966.2,Expense,Amazon purchase,UPI,Diana,Chennai,No
+2025-03-17,Groceries,843.69,Expense,Electricity bill,Bank Transfer,Diana,Delhi,No
+2025-03-17,Investments,2614.59,Income,Amazon purchase,UPI,Charlie,Bangalore,No
+2025-03-17,Transport,209.75,Expense,Uber ride,Bank Transfer,Bob,Chennai,No
+2025-03-17,Healthcare,1025.27,Expense,Amazon purchase,UPI,Bob,Mumbai,No
+2025-03-17,Rent,440.63,Expense,Zomato order,Cash,Bob,Mumbai,Yes
+2025-03-17,Freelancing,2195.8,Income,Electricity bill,UPI,Diana,Mumbai,Yes
+2025-03-17,Salary,718.7,Income,Groceries at Big Bazaar,Card,Alice,Mumbai,Yes
+2025-03-18,Freelancing,3586.8,Income,Uber ride,UPI,Alice,Chennai,No
+2025-03-18,Freelancing,1131.73,Income,Uber ride,Bank Transfer,Diana,Bangalore,Yes
+2025-03-18,Investments,1121.09,Income,Electricity bill,Bank Transfer,Bob,Mumbai,Yes
+2025-03-18,Investments,2650.35,Income,Stock investment,Card,Bob,Mumbai,Yes
+2025-03-18,Shopping,1361.83,Expense,Groceries at Big Bazaar,Cash,Diana,Bangalore,No
+2025-03-18,Transport,1495.91,Expense,Uber ride,UPI,Alice,Chennai,Yes
+2025-03-18,Dining,795.31,Expense,Uber ride,Bank Transfer,Charlie,Chennai,No
+2025-03-18,Healthcare,1138.94,Expense,Amazon purchase,Card,Alice,Delhi,No
+2025-03-18,Groceries,1087.53,Expense,Groceries at Big Bazaar,Cash,Alice,Chennai,Yes
+2025-03-19,Rent,72.5,Expense,Gym membership,UPI,Charlie,Bangalore,Yes
+2025-03-19,Investments,698.92,Income,Groceries at Big Bazaar,Card,Bob,Delhi,Yes
+2025-03-19,Investments,3301.74,Income,Zomato order,Card,Charlie,Chennai,No
+2025-03-19,Shopping,363.44,Expense,Gym membership,UPI,Diana,Mumbai,Yes
+2025-03-20,Healthcare,642.18,Expense,Freelance project,UPI,Bob,Mumbai,Yes
+2025-03-20,Investments,1348.24,Income,Amazon purchase,UPI,Diana,Chennai,Yes
+2025-03-20,Freelancing,1730.55,Income,Zomato order,UPI,Alice,Delhi,Yes
+2025-03-20,Healthcare,1327.89,Expense,Electricity bill,UPI,Diana,Chennai,Yes
+2025-03-20,Healthcare,486.09,Expense,Freelance project,Cash,Bob,Bangalore,Yes
+2025-03-20,Dining,1346.88,Expense,Stock investment,Card,Charlie,Delhi,No
+2025-03-20,Freelancing,774.13,Income,Zomato order,Card,Bob,Chennai,No
+2025-03-20,Healthcare,1198.37,Expense,Amazon purchase,UPI,Bob,Bangalore,Yes
+2025-03-21,Investments,3053.25,Income,Amazon purchase,Bank Transfer,Bob,Delhi,Yes
+2025-03-21,Freelancing,3387.27,Income,Uber ride,Card,Bob,Mumbai,Yes
+2025-03-21,Utilities,970.9,Expense,Gym membership,Bank Transfer,Diana,Delhi,Yes
+2025-03-21,Freelancing,534.91,Income,Stock investment,Bank Transfer,Diana,Mumbai,No
+2025-03-21,Transport,957.75,Expense,Stock investment,Cash,Alice,Chennai,No
+2025-03-21,Investments,3107.39,Income,Uber ride,Bank Transfer,Charlie,Delhi,No
+2025-03-22,Groceries,412.73,Expense,Groceries at Big Bazaar,Cash,Bob,Chennai,No
+2025-03-22,Transport,1267.73,Expense,Groceries at Big Bazaar,Cash,Bob,Delhi,No
+2025-03-22,Dining,1209.01,Expense,Electricity bill,Cash,Diana,Chennai,Yes
+2025-03-22,Rent,1275.07,Expense,Freelance project,UPI,Bob,Chennai,No
+2025-03-22,Salary,1521.57,Income,Groceries at Big Bazaar,Bank Transfer,Charlie,Mumbai,Yes
+2025-03-23,Transport,1216.52,Expense,Gym membership,Card,Alice,Bangalore,No
+2025-03-23,Salary,2574.08,Income,Freelance project,UPI,Bob,Mumbai,Yes
+2025-03-24,Transport,1250.54,Expense,Groceries at Big Bazaar,Card,Bob,Mumbai,Yes
+2025-03-24,Utilities,1450.53,Expense,Stock investment,Cash,Diana,Bangalore,Yes
+2025-03-24,Healthcare,1283.74,Expense,Amazon purchase,Card,Bob,Delhi,Yes
+2025-03-24,Transport,614.5,Expense,Freelance project,Cash,Diana,Bangalore,Yes
+2025-03-24,Groceries,1308.18,Expense,Stock investment,Cash,Charlie,Delhi,Yes
+2025-03-24,Shopping,173.97,Expense,Zomato order,UPI,Bob,Mumbai,No
+2025-03-25,Dining,347.24,Expense,Amazon purchase,Card,Alice,Bangalore,No
+2025-03-25,Dining,195.76,Expense,Zomato order,Bank Transfer,Alice,Delhi,No
+2025-03-25,Freelancing,977.07,Income,Amazon purchase,Card,Bob,Mumbai,Yes
+2025-03-25,Transport,758.42,Expense,Electricity bill,Card,Alice,Mumbai,Yes
+2025-03-25,Healthcare,1215.7,Expense,Amazon purchase,Card,Bob,Mumbai,Yes
+2025-03-25,Healthcare,1033.55,Expense,Stock investment,Card,Charlie,Delhi,No
+2025-03-26,Investments,2970.02,Income,Uber ride,UPI,Diana,Chennai,Yes
+2025-03-26,Salary,2581.44,Income,Electricity bill,Bank Transfer,Charlie,Mumbai,No
+2025-03-26,Transport,986.12,Expense,Stock investment,Cash,Charlie,Chennai,No
+2025-03-26,Rent,802.98,Expense,Zomato order,UPI,Charlie,Delhi,No
+2025-03-26,Groceries,470.68,Expense,Gym membership,UPI,Diana,Delhi,No
+2025-03-26,Dining,1144.63,Expense,Electricity bill,UPI,Bob,Delhi,Yes
+2025-03-26,Utilities,1477.92,Expense,Zomato order,UPI,Diana,Chennai,Yes
+2025-03-27,Transport,1417.16,Expense,Electricity bill,UPI,Bob,Bangalore,No
+2025-03-27,Shopping,1143.03,Expense,Uber ride,Card,Alice,Delhi,No
+2025-03-27,Rent,504.15,Expense,Electricity bill,Card,Charlie,Chennai,Yes
+2025-03-27,Utilities,1084.83,Expense,Amazon purchase,UPI,Bob,Delhi,Yes
+2025-03-27,Healthcare,540.04,Expense,Uber ride,Bank Transfer,Alice,Chennai,No
+2025-03-27,Salary,1215.88,Income,Freelance project,Bank Transfer,Bob,Delhi,Yes
+2025-03-27,Groceries,102.17,Expense,Zomato order,Bank Transfer,Charlie,Delhi,Yes
+2025-03-27,Utilities,1228.47,Expense,Electricity bill,Bank Transfer,Alice,Mumbai,Yes
+2025-03-27,Shopping,1164.76,Expense,Freelance project,Cash,Bob,Mumbai,No
+2025-03-28,Salary,1884.15,Income,Freelance project,UPI,Alice,Chennai,Yes
+2025-03-28,Healthcare,436.88,Expense,Gym membership,Bank Transfer,Diana,Bangalore,Yes
+2025-03-28,Groceries,184.45,Expense,Electricity bill,Card,Charlie,Delhi,No
+2025-03-28,Salary,3342.1,Income,Stock investment,UPI,Charlie,Delhi,No
+2025-03-29,Transport,565.36,Expense,Amazon purchase,Cash,Diana,Chennai,No
+2025-03-29,Utilities,963.35,Expense,Zomato order,Card,Charlie,Mumbai,Yes
+2025-03-29,Salary,3590.53,Income,Zomato order,UPI,Charlie,Bangalore,No
+2025-03-30,Groceries,670.18,Expense,Stock investment,Card,Alice,Delhi,No
+2025-03-30,Rent,586.9,Expense,Stock investment,Cash,Bob,Chennai,Yes
+2025-03-30,Dining,759.46,Expense,Amazon purchase,Card,Bob,Chennai,No
+2025-03-30,Shopping,916.29,Expense,Stock investment,UPI,Charlie,Bangalore,No
+2025-03-30,Shopping,83.47,Expense,Zomato order,UPI,Bob,Delhi,No
+2025-03-30,Utilities,1012.67,Expense,Zomato order,Card,Diana,Chennai,Yes
+2025-03-30,Utilities,1164.94,Expense,Amazon purchase,Cash,Alice,Mumbai,Yes
+2025-03-30,Rent,518.84,Expense,Stock investment,Bank Transfer,Alice,Mumbai,No
+2025-03-31,Salary,2924.62,Income,Gym membership,Bank Transfer,Alice,Bangalore,Yes
+2025-03-31,Utilities,341.94,Expense,Electricity bill,Card,Charlie,Bangalore,Yes
+2025-03-31,Transport,529.99,Expense,Zomato order,Card,Diana,Delhi,No
+2025-03-31,Shopping,575.64,Expense,Amazon purchase,UPI,Diana,Chennai,No
+2025-03-31,Groceries,1407.61,Expense,Zomato order,UPI,Alice,Mumbai,Yes
+2025-04-01,Utilities,1060.82,Expense,Stock investment,UPI,Bob,Chennai,Yes
+2025-04-01,Transport,298.06,Expense,Electricity bill,Card,Charlie,Chennai,No
+2025-04-01,Groceries,546.24,Expense,Amazon purchase,UPI,Diana,Chennai,No
+2025-04-02,Healthcare,718.32,Expense,Gym membership,UPI,Charlie,Bangalore,Yes
+2025-04-02,Healthcare,429.57,Expense,Uber ride,Cash,Diana,Delhi,Yes
+2025-04-02,Investments,1651.78,Income,Groceries at Big Bazaar,Cash,Alice,Mumbai,Yes
+2025-04-02,Groceries,57.72,Expense,Stock investment,Card,Bob,Chennai,Yes
+2025-04-02,Dining,482.86,Expense,Zomato order,Card,Bob,Delhi,No
+2025-04-03,Healthcare,1249.63,Expense,Groceries at Big Bazaar,Card,Charlie,Chennai,No
+2025-04-03,Investments,2618.39,Income,Freelance project,UPI,Diana,Delhi,No
+2025-04-04,Investments,990.53,Income,Freelance project,UPI,Charlie,Bangalore,No
+2025-04-04,Dining,1320.74,Expense,Amazon purchase,UPI,Alice,Bangalore,No
+2025-04-04,Groceries,222.67,Expense,Stock investment,Cash,Diana,Mumbai,Yes
+2025-04-04,Investments,1284.28,Income,Amazon purchase,UPI,Bob,Bangalore,Yes
+2025-04-04,Rent,1014.67,Expense,Groceries at Big Bazaar,Cash,Charlie,Bangalore,No
+2025-04-05,Investments,2595.93,Income,Electricity bill,UPI,Bob,Mumbai,No
+2025-04-05,Healthcare,164.49,Expense,Gym membership,Cash,Alice,Chennai,Yes
+2025-04-06,Salary,3742.82,Income,Zomato order,Bank Transfer,Alice,Bangalore,No
+2025-04-06,Shopping,581.82,Expense,Stock investment,Card,Diana,Chennai,No
+2025-04-06,Transport,397.13,Expense,Uber ride,Cash,Alice,Delhi,Yes
+2025-04-06,Salary,955.25,Income,Gym membership,Card,Bob,Delhi,Yes
+2025-04-06,Utilities,698.0,Expense,Zomato order,UPI,Bob,Delhi,No
+2025-04-06,Utilities,147.68,Expense,Freelance project,Bank Transfer,Diana,Chennai,Yes
+2025-04-06,Dining,457.47,Expense,Stock investment,UPI,Diana,Mumbai,No
+2025-04-06,Shopping,139.26,Expense,Gym membership,Cash,Bob,Bangalore,Yes
+2025-04-07,Shopping,599.2,Expense,Stock investment,UPI,Diana,Bangalore,No
+2025-04-07,Salary,2015.24,Income,Freelance project,Cash,Bob,Delhi,Yes
+2025-04-07,Transport,312.17,Expense,Uber ride,UPI,Bob,Bangalore,No
+2025-04-07,Utilities,476.56,Expense,Uber ride,Cash,Alice,Delhi,No
+2025-04-07,Shopping,1019.98,Expense,Uber ride,Card,Diana,Chennai,Yes
+2025-04-07,Freelancing,1393.79,Income,Stock investment,UPI,Diana,Mumbai,Yes
+2025-04-07,Healthcare,563.69,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Delhi,Yes
+2025-04-07,Dining,239.51,Expense,Gym membership,UPI,Alice,Delhi,Yes
+2025-04-07,Salary,3719.24,Income,Uber ride,UPI,Alice,Chennai,No
+2025-04-07,Salary,3196.99,Income,Uber ride,UPI,Charlie,Bangalore,Yes
+2025-04-08,Shopping,181.38,Expense,Uber ride,Bank Transfer,Charlie,Chennai,Yes
+2025-04-08,Transport,1032.26,Expense,Stock investment,Card,Alice,Bangalore,Yes
+2025-04-08,Salary,1447.73,Income,Groceries at Big Bazaar,Cash,Charlie,Mumbai,Yes
+2025-04-09,Rent,697.1,Expense,Gym membership,Bank Transfer,Diana,Delhi,Yes
+2025-04-09,Shopping,396.21,Expense,Gym membership,Bank Transfer,Bob,Bangalore,Yes
+2025-04-09,Healthcare,1254.83,Expense,Stock investment,Cash,Diana,Chennai,No
+2025-04-10,Shopping,102.92,Expense,Gym membership,Cash,Bob,Chennai,Yes
+2025-04-10,Salary,3294.87,Income,Electricity bill,UPI,Diana,Mumbai,Yes
+2025-04-10,Dining,1261.02,Expense,Freelance project,UPI,Diana,Chennai,Yes
+2025-04-10,Transport,1467.87,Expense,Uber ride,UPI,Bob,Mumbai,Yes
+2025-04-10,Salary,1172.69,Income,Groceries at Big Bazaar,Bank Transfer,Bob,Delhi,No
+2025-04-10,Healthcare,517.29,Expense,Zomato order,Cash,Bob,Bangalore,No
+2025-04-11,Shopping,724.76,Expense,Uber ride,Cash,Bob,Bangalore,No
+2025-04-11,Dining,812.05,Expense,Groceries at Big Bazaar,Cash,Alice,Bangalore,No
+2025-04-11,Utilities,245.94,Expense,Uber ride,Cash,Charlie,Chennai,No
+2025-04-11,Healthcare,539.72,Expense,Uber ride,UPI,Charlie,Bangalore,Yes
+2025-04-11,Utilities,1229.87,Expense,Zomato order,Card,Alice,Mumbai,No
+2025-04-11,Healthcare,1471.91,Expense,Zomato order,Card,Diana,Chennai,No
+2025-04-11,Rent,862.5,Expense,Gym membership,Card,Bob,Delhi,No
+2025-04-12,Transport,266.31,Expense,Stock investment,Cash,Bob,Delhi,Yes
+2025-04-12,Transport,1043.89,Expense,Electricity bill,Card,Diana,Chennai,No
+2025-04-12,Groceries,759.34,Expense,Gym membership,Card,Charlie,Delhi,No
+2025-04-12,Investments,1759.67,Income,Amazon purchase,Cash,Alice,Delhi,Yes
+2025-04-12,Shopping,1289.54,Expense,Amazon purchase,UPI,Charlie,Delhi,Yes
+2025-04-13,Rent,170.4,Expense,Electricity bill,Card,Charlie,Chennai,No
+2025-04-13,Investments,3635.18,Income,Groceries at Big Bazaar,UPI,Bob,Delhi,Yes
+2025-04-13,Salary,3311.25,Income,Amazon purchase,Cash,Bob,Mumbai,No
+2025-04-13,Transport,1151.31,Expense,Groceries at Big Bazaar,Card,Charlie,Mumbai,No
+2025-04-13,Salary,2264.85,Income,Uber ride,UPI,Alice,Mumbai,No
+2025-04-13,Freelancing,1477.26,Income,Uber ride,UPI,Diana,Mumbai,No
+2025-04-13,Healthcare,341.69,Expense,Electricity bill,UPI,Charlie,Chennai,No
+2025-04-13,Groceries,1402.36,Expense,Stock investment,Bank Transfer,Bob,Delhi,No
+2025-04-13,Groceries,1178.09,Expense,Electricity bill,Cash,Diana,Delhi,No
+2025-04-14,Rent,1225.7,Expense,Uber ride,Card,Charlie,Chennai,No
+2025-04-14,Healthcare,1158.9,Expense,Uber ride,Bank Transfer,Charlie,Chennai,No
+2025-04-14,Transport,1485.19,Expense,Zomato order,Card,Diana,Chennai,No
+2025-04-14,Salary,2582.13,Income,Amazon purchase,Card,Diana,Bangalore,Yes
+2025-04-14,Rent,1285.94,Expense,Groceries at Big Bazaar,Card,Charlie,Chennai,Yes
+2025-04-14,Salary,1612.34,Income,Amazon purchase,UPI,Alice,Chennai,Yes
+2025-04-14,Transport,642.88,Expense,Amazon purchase,UPI,Alice,Delhi,No
+2025-04-15,Healthcare,658.25,Expense,Amazon purchase,Bank Transfer,Alice,Chennai,No
+2025-04-15,Groceries,1046.61,Expense,Electricity bill,Cash,Charlie,Chennai,Yes
+2025-04-15,Rent,1467.75,Expense,Uber ride,Card,Alice,Mumbai,Yes
+2025-04-15,Groceries,385.28,Expense,Electricity bill,Bank Transfer,Charlie,Mumbai,No
+2025-04-15,Dining,310.13,Expense,Zomato order,Bank Transfer,Alice,Bangalore,Yes
+2025-04-16,Dining,747.03,Expense,Uber ride,Cash,Bob,Delhi,Yes
+2025-04-16,Utilities,1442.36,Expense,Uber ride,Cash,Bob,Delhi,No
+2025-04-16,Healthcare,420.72,Expense,Electricity bill,Bank Transfer,Alice,Mumbai,Yes
+2025-04-16,Healthcare,929.84,Expense,Stock investment,Cash,Diana,Delhi,Yes
+2025-04-17,Utilities,590.97,Expense,Uber ride,UPI,Alice,Chennai,No
+2025-04-17,Freelancing,2038.4,Income,Freelance project,Bank Transfer,Charlie,Delhi,No
+2025-04-17,Rent,437.73,Expense,Uber ride,Cash,Diana,Mumbai,Yes
+2025-04-17,Transport,474.08,Expense,Gym membership,UPI,Diana,Bangalore,Yes
+2025-04-17,Rent,1274.83,Expense,Freelance project,Cash,Diana,Bangalore,Yes
+2025-04-18,Salary,3448.32,Income,Gym membership,Card,Bob,Chennai,No
+2025-04-18,Salary,3529.69,Income,Uber ride,UPI,Diana,Chennai,No
+2025-04-18,Transport,1422.97,Expense,Zomato order,Card,Diana,Mumbai,Yes
+2025-04-18,Shopping,464.47,Expense,Uber ride,Cash,Charlie,Mumbai,No
+2025-04-18,Rent,1085.29,Expense,Gym membership,Bank Transfer,Charlie,Mumbai,Yes
+2025-04-18,Healthcare,127.81,Expense,Amazon purchase,Bank Transfer,Bob,Bangalore,Yes
+2025-04-19,Salary,1066.54,Income,Stock investment,Cash,Bob,Mumbai,Yes
+2025-04-19,Groceries,1424.14,Expense,Stock investment,Card,Diana,Bangalore,No
+2025-04-19,Freelancing,3582.8,Income,Amazon purchase,UPI,Diana,Chennai,Yes
+2025-04-19,Groceries,105.12,Expense,Gym membership,Bank Transfer,Alice,Chennai,No
+2025-04-19,Salary,3570.54,Income,Uber ride,Bank Transfer,Alice,Chennai,Yes
+2025-04-20,Utilities,1048.62,Expense,Groceries at Big Bazaar,Card,Bob,Delhi,No
+2025-04-20,Rent,458.62,Expense,Uber ride,UPI,Charlie,Chennai,No
+2025-04-20,Salary,775.68,Income,Electricity bill,UPI,Bob,Bangalore,Yes
+2025-04-20,Rent,886.77,Expense,Gym membership,UPI,Diana,Chennai,No
+2025-04-20,Transport,567.18,Expense,Freelance project,Cash,Bob,Mumbai,Yes
+2025-04-20,Dining,554.35,Expense,Electricity bill,UPI,Charlie,Mumbai,No
+2025-04-20,Utilities,995.31,Expense,Uber ride,Card,Bob,Bangalore,No
+2025-04-20,Transport,1473.41,Expense,Amazon purchase,Cash,Diana,Mumbai,Yes
+2025-04-20,Salary,2965.47,Income,Zomato order,Cash,Bob,Mumbai,Yes
+2025-04-21,Dining,1247.65,Expense,Freelance project,Bank Transfer,Alice,Delhi,Yes
+2025-04-21,Transport,132.61,Expense,Zomato order,Bank Transfer,Diana,Mumbai,No
+2025-04-21,Utilities,588.75,Expense,Uber ride,Card,Diana,Bangalore,Yes
+2025-04-21,Groceries,534.55,Expense,Gym membership,Bank Transfer,Bob,Delhi,No
+2025-04-21,Dining,1391.8,Expense,Amazon purchase,UPI,Charlie,Bangalore,Yes
+2025-04-21,Healthcare,460.33,Expense,Amazon purchase,Card,Charlie,Bangalore,Yes
+2025-04-22,Transport,527.61,Expense,Amazon purchase,Card,Diana,Mumbai,Yes
+2025-04-22,Rent,762.21,Expense,Electricity bill,UPI,Bob,Chennai,Yes
+2025-04-22,Healthcare,84.47,Expense,Gym membership,Card,Bob,Chennai,No
+2025-04-22,Investments,1884.13,Income,Amazon purchase,UPI,Alice,Mumbai,Yes
+2025-04-23,Freelancing,2872.17,Income,Gym membership,UPI,Diana,Mumbai,Yes
+2025-04-23,Healthcare,632.29,Expense,Freelance project,Card,Diana,Chennai,Yes
+2025-04-23,Transport,866.53,Expense,Freelance project,Card,Charlie,Chennai,Yes
+2025-04-24,Healthcare,854.04,Expense,Amazon purchase,Cash,Diana,Delhi,No
+2025-04-24,Utilities,1396.28,Expense,Electricity bill,Bank Transfer,Alice,Delhi,Yes
+2025-04-24,Rent,867.0,Expense,Electricity bill,UPI,Charlie,Chennai,Yes
+2025-04-24,Freelancing,3552.33,Income,Amazon purchase,Bank Transfer,Charlie,Bangalore,Yes
+2025-04-24,Dining,472.89,Expense,Zomato order,Bank Transfer,Bob,Delhi,No
+2025-04-24,Shopping,1153.38,Expense,Freelance project,Card,Alice,Mumbai,No
+2025-04-24,Groceries,976.2,Expense,Freelance project,UPI,Alice,Bangalore,No
+2025-04-24,Salary,3688.42,Income,Amazon purchase,Card,Diana,Delhi,Yes
+2025-04-25,Salary,3250.25,Income,Freelance project,Cash,Diana,Chennai,No
+2025-04-25,Groceries,538.98,Expense,Groceries at Big Bazaar,UPI,Diana,Chennai,No
+2025-04-26,Shopping,1234.23,Expense,Stock investment,Bank Transfer,Alice,Chennai,No
+2025-04-26,Salary,2002.51,Income,Groceries at Big Bazaar,Cash,Alice,Delhi,Yes
+2025-04-26,Shopping,673.54,Expense,Electricity bill,Cash,Bob,Mumbai,Yes
+2025-04-27,Transport,298.78,Expense,Zomato order,Card,Diana,Chennai,No
+2025-04-27,Shopping,1050.23,Expense,Groceries at Big Bazaar,Bank Transfer,Diana,Chennai,No
+2025-04-27,Healthcare,286.38,Expense,Gym membership,Cash,Bob,Chennai,No
+2025-04-28,Healthcare,430.4,Expense,Zomato order,Card,Bob,Delhi,Yes
+2025-04-28,Rent,1158.8,Expense,Uber ride,Cash,Charlie,Bangalore,No
+2025-04-28,Transport,1477.8,Expense,Amazon purchase,UPI,Alice,Mumbai,Yes
+2025-04-28,Investments,1043.8,Income,Freelance project,Bank Transfer,Charlie,Chennai,No
+2025-04-29,Freelancing,3887.56,Income,Electricity bill,Bank Transfer,Charlie,Bangalore,Yes
+2025-04-29,Healthcare,1286.6,Expense,Amazon purchase,UPI,Diana,Chennai,Yes
+2025-04-29,Healthcare,520.59,Expense,Groceries at Big Bazaar,Card,Diana,Mumbai,Yes
+2025-04-29,Rent,1160.25,Expense,Zomato order,Bank Transfer,Bob,Mumbai,No
+2025-04-29,Freelancing,3082.14,Income,Amazon purchase,Cash,Alice,Delhi,No
+2025-04-29,Utilities,1257.28,Expense,Gym membership,UPI,Alice,Mumbai,No
+2025-04-29,Utilities,778.56,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Bangalore,No
+2025-04-29,Shopping,448.16,Expense,Amazon purchase,Bank Transfer,Alice,Bangalore,No
+2025-04-29,Groceries,1282.46,Expense,Freelance project,Bank Transfer,Alice,Mumbai,Yes
+2025-04-30,Groceries,611.6,Expense,Zomato order,UPI,Alice,Mumbai,No
+2025-04-30,Rent,1212.83,Expense,Electricity bill,Card,Charlie,Chennai,No
+2025-04-30,Rent,890.99,Expense,Amazon purchase,Card,Diana,Mumbai,Yes
+2025-04-30,Salary,3425.96,Income,Electricity bill,Card,Bob,Delhi,Yes
+2025-05-01,Investments,2334.24,Income,Stock investment,Cash,Bob,Chennai,No
+2025-05-01,Groceries,616.46,Expense,Electricity bill,Bank Transfer,Bob,Delhi,Yes
+2025-05-01,Salary,2955.35,Income,Amazon purchase,Cash,Charlie,Delhi,Yes
+2025-05-01,Rent,585.41,Expense,Stock investment,Card,Bob,Mumbai,No
+2025-05-02,Investments,3507.91,Income,Stock investment,Bank Transfer,Diana,Chennai,Yes
+2025-05-02,Groceries,1273.55,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Bangalore,No
+2025-05-02,Investments,3984.34,Income,Freelance project,Card,Charlie,Bangalore,No
+2025-05-02,Transport,1477.05,Expense,Zomato order,UPI,Alice,Mumbai,No
+2025-05-02,Freelancing,3479.83,Income,Electricity bill,Card,Diana,Bangalore,Yes
+2025-05-02,Healthcare,638.7,Expense,Gym membership,UPI,Diana,Bangalore,Yes
+2025-05-03,Rent,882.74,Expense,Stock investment,UPI,Bob,Mumbai,Yes
+2025-05-03,Investments,789.14,Income,Stock investment,Cash,Alice,Mumbai,No
+2025-05-03,Shopping,1256.27,Expense,Uber ride,UPI,Bob,Delhi,No
+2025-05-03,Freelancing,3021.49,Income,Zomato order,UPI,Diana,Mumbai,No
+2025-05-03,Transport,257.11,Expense,Uber ride,Card,Alice,Chennai,No
+2025-05-03,Rent,383.19,Expense,Zomato order,UPI,Charlie,Chennai,No
+2025-05-03,Shopping,290.96,Expense,Zomato order,UPI,Charlie,Delhi,No
+2025-05-03,Investments,3888.81,Income,Groceries at Big Bazaar,UPI,Charlie,Bangalore,No
+2025-05-03,Utilities,1396.19,Expense,Groceries at Big Bazaar,Cash,Diana,Chennai,Yes
+2025-05-03,Investments,2439.81,Income,Gym membership,Card,Charlie,Delhi,No
+2025-05-03,Freelancing,2585.48,Income,Uber ride,Bank Transfer,Diana,Mumbai,Yes
+2025-05-03,Salary,1038.49,Income,Amazon purchase,Bank Transfer,Diana,Delhi,No
+2025-05-04,Rent,316.63,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Bangalore,No
+2025-05-04,Freelancing,3103.8,Income,Groceries at Big Bazaar,Card,Bob,Mumbai,No
+2025-05-04,Groceries,306.74,Expense,Freelance project,Cash,Alice,Chennai,No
+2025-05-04,Freelancing,2387.28,Income,Amazon purchase,Card,Bob,Bangalore,No
+2025-05-04,Investments,3248.37,Income,Uber ride,Card,Charlie,Delhi,Yes
+2025-05-04,Shopping,785.71,Expense,Freelance project,Bank Transfer,Diana,Chennai,Yes
+2025-05-04,Rent,191.59,Expense,Stock investment,Cash,Alice,Bangalore,Yes
+2025-05-04,Transport,364.53,Expense,Freelance project,UPI,Charlie,Chennai,Yes
+2025-05-05,Salary,2255.22,Income,Freelance project,Cash,Diana,Delhi,Yes
+2025-05-05,Transport,824.68,Expense,Uber ride,Card,Charlie,Bangalore,No
+2025-05-05,Groceries,622.69,Expense,Stock investment,Card,Charlie,Delhi,No
+2025-05-06,Healthcare,679.88,Expense,Uber ride,Bank Transfer,Bob,Chennai,Yes
+2025-05-06,Salary,662.29,Income,Amazon purchase,Card,Alice,Bangalore,No
+2025-05-06,Healthcare,579.32,Expense,Uber ride,UPI,Charlie,Bangalore,Yes
+2025-05-07,Utilities,1249.07,Expense,Stock investment,Cash,Alice,Chennai,Yes
+2025-05-07,Investments,3385.54,Income,Amazon purchase,Card,Charlie,Mumbai,No
+2025-05-07,Investments,1348.76,Income,Stock investment,UPI,Charlie,Bangalore,Yes
+2025-05-07,Utilities,115.65,Expense,Gym membership,Card,Bob,Chennai,No
+2025-05-08,Rent,121.46,Expense,Zomato order,Bank Transfer,Alice,Delhi,No
+2025-05-08,Transport,542.43,Expense,Freelance project,UPI,Diana,Delhi,No
+2025-05-08,Freelancing,3104.28,Income,Zomato order,Card,Diana,Chennai,No
+2025-05-09,Salary,1399.07,Income,Stock investment,UPI,Diana,Bangalore,Yes
+2025-05-09,Dining,503.51,Expense,Electricity bill,Card,Charlie,Bangalore,No
+2025-05-09,Rent,369.37,Expense,Amazon purchase,Bank Transfer,Charlie,Delhi,No
+2025-05-09,Transport,768.39,Expense,Freelance project,UPI,Alice,Bangalore,No
+2025-05-09,Groceries,1046.58,Expense,Zomato order,Bank Transfer,Bob,Delhi,Yes
+2025-05-09,Shopping,684.52,Expense,Freelance project,Cash,Diana,Chennai,Yes
+2025-05-09,Freelancing,1751.76,Income,Electricity bill,Card,Alice,Delhi,No
+2025-05-09,Utilities,1327.82,Expense,Stock investment,Cash,Charlie,Delhi,Yes
+2025-05-09,Healthcare,797.43,Expense,Stock investment,UPI,Diana,Bangalore,Yes
+2025-05-10,Freelancing,2444.41,Income,Freelance project,Card,Alice,Bangalore,No
+2025-05-10,Groceries,118.56,Expense,Zomato order,Bank Transfer,Alice,Bangalore,No
+2025-05-10,Investments,3551.56,Income,Gym membership,Cash,Alice,Delhi,Yes
+2025-05-10,Rent,1247.2,Expense,Amazon purchase,UPI,Charlie,Bangalore,Yes
+2025-05-10,Dining,174.44,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Delhi,Yes
+2025-05-11,Dining,907.39,Expense,Uber ride,UPI,Charlie,Mumbai,Yes
+2025-05-11,Shopping,60.93,Expense,Zomato order,Bank Transfer,Bob,Mumbai,No
+2025-05-11,Utilities,1263.1,Expense,Freelance project,Cash,Bob,Bangalore,Yes
+2025-05-11,Shopping,1270.59,Expense,Electricity bill,Cash,Diana,Delhi,Yes
+2025-05-11,Investments,1311.15,Income,Gym membership,Cash,Alice,Delhi,Yes
+2025-05-11,Salary,3724.76,Income,Electricity bill,Card,Diana,Mumbai,No
+2025-05-11,Transport,715.68,Expense,Stock investment,Card,Diana,Mumbai,Yes
+2025-05-11,Transport,312.32,Expense,Gym membership,UPI,Bob,Delhi,Yes
+2025-05-12,Rent,1415.25,Expense,Amazon purchase,Card,Diana,Bangalore,Yes
+2025-05-12,Salary,532.91,Income,Stock investment,UPI,Alice,Bangalore,Yes
+2025-05-12,Rent,974.78,Expense,Zomato order,Bank Transfer,Alice,Bangalore,No
+2025-05-12,Transport,190.49,Expense,Electricity bill,UPI,Alice,Mumbai,No
+2025-05-13,Shopping,1224.64,Expense,Zomato order,UPI,Bob,Mumbai,No
+2025-05-13,Dining,678.68,Expense,Electricity bill,Bank Transfer,Diana,Chennai,Yes
+2025-05-13,Healthcare,235.86,Expense,Uber ride,Cash,Alice,Chennai,Yes
+2025-05-13,Salary,2146.15,Income,Electricity bill,Bank Transfer,Alice,Delhi,No
+2025-05-13,Investments,770.27,Income,Electricity bill,Card,Alice,Delhi,Yes
+2025-05-13,Salary,3171.48,Income,Uber ride,Card,Alice,Delhi,No
+2025-05-14,Utilities,1148.87,Expense,Stock investment,Card,Charlie,Mumbai,No
+2025-05-14,Investments,1740.59,Income,Amazon purchase,Card,Diana,Delhi,No
+2025-05-14,Shopping,269.16,Expense,Zomato order,Bank Transfer,Alice,Delhi,No
+2025-05-14,Groceries,899.79,Expense,Stock investment,Card,Alice,Chennai,Yes
+2025-05-14,Shopping,1261.39,Expense,Stock investment,Card,Alice,Bangalore,No
+2025-05-14,Shopping,1410.62,Expense,Uber ride,Cash,Alice,Delhi,No
+2025-05-15,Shopping,506.03,Expense,Zomato order,Card,Alice,Bangalore,No
+2025-05-15,Investments,1408.79,Income,Groceries at Big Bazaar,Card,Diana,Bangalore,No
+2025-05-16,Groceries,676.08,Expense,Stock investment,Bank Transfer,Charlie,Delhi,Yes
+2025-05-16,Shopping,798.5,Expense,Groceries at Big Bazaar,Bank Transfer,Diana,Bangalore,Yes
+2025-05-16,Transport,1219.05,Expense,Zomato order,Bank Transfer,Bob,Bangalore,Yes
+2025-05-16,Salary,1676.54,Income,Groceries at Big Bazaar,UPI,Charlie,Chennai,No
+2025-05-16,Utilities,271.65,Expense,Zomato order,Cash,Bob,Bangalore,Yes
+2025-05-16,Transport,236.67,Expense,Gym membership,UPI,Alice,Delhi,Yes
+2025-05-16,Transport,986.49,Expense,Gym membership,UPI,Alice,Chennai,Yes
+2025-05-16,Salary,906.56,Income,Zomato order,Card,Diana,Mumbai,Yes
+2025-05-17,Transport,160.96,Expense,Stock investment,Bank Transfer,Bob,Chennai,Yes
+2025-05-17,Shopping,1140.42,Expense,Amazon purchase,Bank Transfer,Diana,Delhi,Yes
+2025-05-17,Investments,2504.45,Income,Stock investment,Cash,Alice,Mumbai,Yes
+2025-05-17,Rent,1325.5,Expense,Gym membership,Card,Diana,Bangalore,Yes
+2025-05-17,Investments,1969.8,Income,Gym membership,Bank Transfer,Charlie,Delhi,Yes
+2025-05-17,Rent,1281.01,Expense,Groceries at Big Bazaar,Card,Diana,Chennai,Yes
+2025-05-17,Transport,1202.26,Expense,Stock investment,Cash,Alice,Mumbai,Yes
+2025-05-17,Investments,2697.69,Income,Electricity bill,Cash,Diana,Delhi,Yes
+2025-05-17,Investments,2448.77,Income,Freelance project,Card,Diana,Mumbai,Yes
+2025-05-17,Freelancing,3192.08,Income,Stock investment,Cash,Alice,Chennai,Yes
+2025-05-18,Shopping,124.18,Expense,Groceries at Big Bazaar,UPI,Diana,Mumbai,Yes
+2025-05-18,Freelancing,649.66,Income,Groceries at Big Bazaar,Card,Alice,Chennai,No
+2025-05-18,Utilities,1490.48,Expense,Uber ride,Cash,Alice,Delhi,No
+2025-05-18,Shopping,286.11,Expense,Uber ride,Bank Transfer,Diana,Chennai,No
+2025-05-18,Groceries,519.99,Expense,Stock investment,Card,Charlie,Bangalore,Yes
+2025-05-18,Dining,653.99,Expense,Zomato order,Cash,Diana,Bangalore,No
+2025-05-19,Shopping,1454.19,Expense,Gym membership,Cash,Alice,Mumbai,Yes
+2025-05-19,Groceries,1408.17,Expense,Gym membership,Cash,Charlie,Delhi,Yes
+2025-05-19,Salary,2901.84,Income,Electricity bill,UPI,Bob,Mumbai,Yes
+2025-05-19,Utilities,949.36,Expense,Freelance project,Card,Charlie,Chennai,Yes
+2025-05-20,Transport,765.4,Expense,Freelance project,Card,Bob,Chennai,Yes
+2025-05-20,Utilities,1253.84,Expense,Zomato order,Card,Diana,Delhi,No
+2025-05-20,Dining,1302.67,Expense,Groceries at Big Bazaar,UPI,Charlie,Delhi,Yes
+2025-05-20,Healthcare,1496.87,Expense,Groceries at Big Bazaar,UPI,Diana,Bangalore,Yes
+2025-05-20,Transport,946.68,Expense,Stock investment,UPI,Diana,Delhi,Yes
+2025-05-20,Transport,363.71,Expense,Stock investment,Card,Alice,Chennai,No
+2025-05-20,Dining,1120.37,Expense,Zomato order,UPI,Alice,Delhi,Yes
+2025-05-21,Freelancing,950.54,Income,Uber ride,Bank Transfer,Bob,Bangalore,No
+2025-05-21,Shopping,625.62,Expense,Amazon purchase,UPI,Alice,Mumbai,Yes
+2025-05-21,Rent,1478.65,Expense,Gym membership,Cash,Diana,Bangalore,No
+2025-05-21,Transport,367.42,Expense,Groceries at Big Bazaar,Cash,Alice,Chennai,Yes
+2025-05-21,Salary,3748.81,Income,Uber ride,Bank Transfer,Bob,Mumbai,No
+2025-05-22,Freelancing,977.68,Income,Gym membership,Bank Transfer,Alice,Mumbai,No
+2025-05-22,Freelancing,2784.25,Income,Stock investment,UPI,Alice,Chennai,Yes
+2025-05-22,Shopping,1044.87,Expense,Electricity bill,Bank Transfer,Alice,Mumbai,No
+2025-05-22,Transport,955.3,Expense,Gym membership,Card,Diana,Mumbai,No
+2025-05-22,Shopping,596.11,Expense,Uber ride,Card,Bob,Mumbai,Yes
+2025-05-22,Transport,1125.3,Expense,Electricity bill,Card,Charlie,Bangalore,No
+2025-05-22,Transport,912.58,Expense,Stock investment,Cash,Alice,Chennai,No
+2025-05-23,Investments,1567.75,Income,Gym membership,Card,Bob,Mumbai,Yes
+2025-05-23,Freelancing,951.17,Income,Freelance project,Cash,Alice,Delhi,No
+2025-05-23,Groceries,684.69,Expense,Electricity bill,Cash,Bob,Delhi,Yes
+2025-05-23,Dining,627.18,Expense,Amazon purchase,Card,Bob,Delhi,Yes
+2025-05-23,Transport,1071.85,Expense,Uber ride,Card,Diana,Delhi,Yes
+2025-05-23,Rent,1007.19,Expense,Uber ride,Bank Transfer,Charlie,Mumbai,No
+2025-05-23,Shopping,454.72,Expense,Groceries at Big Bazaar,Bank Transfer,Bob,Bangalore,Yes
+2025-05-23,Freelancing,1723.91,Income,Groceries at Big Bazaar,Bank Transfer,Diana,Mumbai,No
+2025-05-23,Freelancing,1157.77,Income,Groceries at Big Bazaar,Card,Alice,Bangalore,Yes
+2025-05-23,Rent,1265.15,Expense,Electricity bill,UPI,Diana,Delhi,Yes
+2025-05-23,Freelancing,3284.73,Income,Uber ride,Card,Charlie,Delhi,Yes
+2025-05-24,Utilities,975.15,Expense,Electricity bill,Cash,Diana,Mumbai,No
+2025-05-24,Salary,2862.42,Income,Electricity bill,UPI,Alice,Chennai,Yes
+2025-05-24,Transport,229.34,Expense,Stock investment,Card,Bob,Chennai,No
+2025-05-24,Investments,2627.25,Income,Groceries at Big Bazaar,Cash,Bob,Mumbai,No
+2025-05-24,Dining,1145.52,Expense,Freelance project,UPI,Bob,Mumbai,No
+2025-05-24,Shopping,1065.71,Expense,Amazon purchase,Card,Diana,Chennai,Yes
+2025-05-25,Groceries,724.56,Expense,Amazon purchase,Card,Charlie,Mumbai,Yes
+2025-05-25,Utilities,1209.85,Expense,Gym membership,UPI,Bob,Delhi,No
+2025-05-25,Utilities,1470.49,Expense,Groceries at Big Bazaar,Bank Transfer,Alice,Mumbai,Yes
+2025-05-25,Utilities,702.4,Expense,Zomato order,UPI,Diana,Bangalore,No
+2025-05-25,Transport,1050.45,Expense,Groceries at Big Bazaar,Bank Transfer,Bob,Mumbai,Yes
+2025-05-25,Investments,3025.09,Income,Freelance project,Card,Bob,Chennai,Yes
+2025-05-25,Freelancing,3897.57,Income,Gym membership,Cash,Charlie,Mumbai,Yes
+2025-05-25,Rent,291.72,Expense,Uber ride,Card,Charlie,Mumbai,Yes
+2025-05-25,Salary,2617.42,Income,Freelance project,UPI,Diana,Delhi,No
+2025-05-26,Dining,713.83,Expense,Amazon purchase,UPI,Charlie,Delhi,Yes
+2025-05-26,Freelancing,1310.36,Income,Groceries at Big Bazaar,Cash,Diana,Bangalore,No
+2025-05-26,Healthcare,1143.14,Expense,Electricity bill,Card,Alice,Delhi,Yes
+2025-05-26,Freelancing,3260.34,Income,Stock investment,Bank Transfer,Charlie,Delhi,No
+2025-05-26,Rent,387.04,Expense,Freelance project,Card,Alice,Bangalore,No
+2025-05-26,Freelancing,3193.81,Income,Electricity bill,UPI,Diana,Chennai,Yes
+2025-05-26,Healthcare,113.45,Expense,Electricity bill,Bank Transfer,Bob,Bangalore,Yes
+2025-05-27,Dining,1425.78,Expense,Uber ride,Cash,Diana,Bangalore,No
+2025-05-27,Dining,1074.21,Expense,Uber ride,Cash,Charlie,Chennai,Yes
+2025-05-27,Groceries,226.06,Expense,Gym membership,Cash,Bob,Bangalore,No
+2025-05-27,Salary,678.46,Income,Groceries at Big Bazaar,Bank Transfer,Diana,Bangalore,Yes
+2025-05-28,Rent,1120.98,Expense,Uber ride,Card,Charlie,Bangalore,No
+2025-05-28,Freelancing,1523.86,Income,Amazon purchase,Cash,Charlie,Chennai,No
+2025-05-28,Salary,2467.6,Income,Amazon purchase,Cash,Alice,Chennai,Yes
+2025-05-28,Dining,436.67,Expense,Electricity bill,UPI,Charlie,Mumbai,Yes
+2025-05-28,Healthcare,1491.51,Expense,Gym membership,Bank Transfer,Alice,Mumbai,Yes
+2025-05-28,Groceries,679.33,Expense,Electricity bill,Card,Alice,Mumbai,Yes
+2025-05-28,Freelancing,3497.96,Income,Uber ride,Bank Transfer,Charlie,Chennai,Yes
+2025-05-28,Transport,833.78,Expense,Uber ride,Cash,Diana,Mumbai,Yes
+2025-05-28,Salary,2750.29,Income,Zomato order,Bank Transfer,Diana,Chennai,No
+2025-05-29,Freelancing,932.79,Income,Electricity bill,Bank Transfer,Alice,Bangalore,No
+2025-05-29,Groceries,391.25,Expense,Gym membership,UPI,Diana,Chennai,No
+2025-05-29,Freelancing,1963.92,Income,Amazon purchase,Card,Alice,Chennai,Yes
+2025-05-29,Transport,1374.48,Expense,Zomato order,Bank Transfer,Charlie,Mumbai,Yes
+2025-05-29,Rent,1073.28,Expense,Zomato order,UPI,Diana,Bangalore,Yes
+2025-05-29,Freelancing,1367.51,Income,Uber ride,Cash,Diana,Delhi,Yes
+2025-05-29,Freelancing,2196.4,Income,Uber ride,Bank Transfer,Bob,Mumbai,Yes
+2025-05-29,Freelancing,899.74,Income,Electricity bill,UPI,Bob,Mumbai,No
+2025-05-30,Rent,939.17,Expense,Stock investment,Card,Diana,Chennai,Yes
+2025-05-31,Shopping,1012.11,Expense,Gym membership,Bank Transfer,Bob,Delhi,Yes
+2025-05-31,Freelancing,980.95,Income,Electricity bill,UPI,Diana,Chennai,Yes
+2025-05-31,Salary,1456.07,Income,Stock investment,Bank Transfer,Charlie,Mumbai,Yes
+2025-05-31,Healthcare,1343.82,Expense,Uber ride,Cash,Diana,Bangalore,Yes
+2025-05-31,Freelancing,3539.55,Income,Groceries at Big Bazaar,Card,Bob,Bangalore,Yes
+2025-05-31,Utilities,1403.65,Expense,Freelance project,Bank Transfer,Diana,Chennai,No
+2025-06-01,Transport,1157.69,Expense,Zomato order,Cash,Diana,Delhi,Yes
+2025-06-01,Healthcare,1256.08,Expense,Zomato order,Bank Transfer,Bob,Bangalore,Yes
+2025-06-01,Salary,2729.27,Income,Freelance project,Cash,Charlie,Chennai,No
+2025-06-01,Salary,2378.18,Income,Gym membership,Card,Alice,Mumbai,Yes
+2025-06-01,Freelancing,2403.45,Income,Uber ride,Cash,Charlie,Chennai,Yes
+2025-06-01,Healthcare,968.05,Expense,Freelance project,Cash,Alice,Chennai,No
+2025-06-02,Healthcare,853.19,Expense,Zomato order,Card,Bob,Bangalore,Yes
+2025-06-02,Dining,755.24,Expense,Stock investment,Bank Transfer,Charlie,Chennai,Yes
+2025-06-02,Rent,346.92,Expense,Zomato order,UPI,Charlie,Mumbai,No
+2025-06-02,Freelancing,2656.77,Income,Uber ride,Card,Bob,Chennai,No
+2025-06-02,Dining,667.69,Expense,Zomato order,Cash,Alice,Mumbai,No
+2025-06-02,Utilities,339.97,Expense,Uber ride,UPI,Alice,Chennai,No
+2025-06-02,Investments,745.09,Income,Zomato order,Bank Transfer,Bob,Chennai,Yes
+2025-06-03,Healthcare,747.57,Expense,Stock investment,UPI,Charlie,Mumbai,No
+2025-06-03,Healthcare,1148.94,Expense,Stock investment,UPI,Diana,Delhi,Yes
+2025-06-03,Freelancing,1871.06,Income,Zomato order,Card,Charlie,Mumbai,Yes
+2025-06-03,Dining,88.08,Expense,Amazon purchase,Card,Diana,Chennai,Yes
+2025-06-03,Salary,2680.43,Income,Electricity bill,UPI,Bob,Mumbai,No
+2025-06-03,Investments,1670.42,Income,Freelance project,Cash,Charlie,Mumbai,No
+2025-06-04,Shopping,146.25,Expense,Freelance project,Bank Transfer,Charlie,Delhi,Yes
+2025-06-04,Utilities,199.42,Expense,Zomato order,Cash,Bob,Delhi,No
+2025-06-04,Investments,1330.73,Income,Freelance project,Cash,Diana,Chennai,No
+2025-06-05,Freelancing,3601.61,Income,Amazon purchase,Bank Transfer,Diana,Chennai,Yes
+2025-06-05,Dining,1131.35,Expense,Electricity bill,Cash,Charlie,Chennai,No
+2025-06-05,Groceries,1286.73,Expense,Electricity bill,Bank Transfer,Bob,Bangalore,Yes
+2025-06-05,Transport,475.71,Expense,Gym membership,Cash,Alice,Delhi,Yes
+2025-06-06,Utilities,195.78,Expense,Amazon purchase,Bank Transfer,Charlie,Mumbai,Yes
+2025-06-06,Utilities,300.18,Expense,Amazon purchase,Card,Bob,Delhi,Yes
+2025-06-06,Groceries,581.31,Expense,Groceries at Big Bazaar,Cash,Alice,Delhi,Yes
+2025-06-06,Rent,651.38,Expense,Electricity bill,Card,Bob,Chennai,No
+2025-06-06,Groceries,750.45,Expense,Freelance project,Bank Transfer,Bob,Mumbai,No
+2025-06-06,Rent,1395.94,Expense,Gym membership,UPI,Bob,Mumbai,Yes
+2025-06-06,Freelancing,605.95,Income,Groceries at Big Bazaar,UPI,Alice,Chennai,No
+2025-06-07,Groceries,770.65,Expense,Gym membership,Card,Charlie,Bangalore,Yes
+2025-06-07,Rent,1276.75,Expense,Gym membership,UPI,Diana,Delhi,Yes
+2025-06-07,Healthcare,505.8,Expense,Gym membership,Bank Transfer,Diana,Mumbai,No
+2025-06-07,Salary,1184.04,Income,Groceries at Big Bazaar,Card,Diana,Mumbai,No
+2025-06-07,Investments,1087.73,Income,Groceries at Big Bazaar,Bank Transfer,Diana,Mumbai,No
+2025-06-07,Dining,1171.45,Expense,Stock investment,Card,Bob,Delhi,No
+2025-06-07,Transport,1087.31,Expense,Uber ride,Cash,Diana,Chennai,Yes
+2025-06-08,Salary,2073.18,Income,Zomato order,Cash,Bob,Mumbai,No
+2025-06-08,Groceries,335.21,Expense,Amazon purchase,UPI,Bob,Chennai,No
+2025-06-08,Healthcare,945.31,Expense,Zomato order,Cash,Alice,Delhi,No
+2025-06-08,Utilities,1236.93,Expense,Groceries at Big Bazaar,Cash,Bob,Mumbai,No
+2025-06-09,Shopping,456.61,Expense,Groceries at Big Bazaar,Cash,Alice,Chennai,Yes
+2025-06-09,Salary,1365.63,Income,Uber ride,Card,Alice,Delhi,Yes
+2025-06-09,Dining,1231.77,Expense,Stock investment,UPI,Charlie,Chennai,Yes
+2025-06-09,Freelancing,3715.23,Income,Zomato order,UPI,Alice,Chennai,Yes
+2025-06-09,Investments,3353.62,Income,Electricity bill,Bank Transfer,Alice,Chennai,No
+2025-06-09,Healthcare,1288.59,Expense,Amazon purchase,Cash,Bob,Delhi,No
+2025-06-09,Rent,400.96,Expense,Gym membership,Cash,Diana,Bangalore,Yes
+2025-06-09,Shopping,685.41,Expense,Electricity bill,Bank Transfer,Diana,Mumbai,No
+2025-06-09,Salary,710.52,Income,Stock investment,Card,Charlie,Bangalore,No
+2025-06-10,Rent,1218.79,Expense,Freelance project,Cash,Charlie,Delhi,Yes
+2025-06-10,Investments,2467.59,Income,Electricity bill,Bank Transfer,Alice,Mumbai,Yes
+2025-06-11,Dining,439.4,Expense,Stock investment,Card,Alice,Bangalore,Yes
+2025-06-11,Rent,1142.17,Expense,Stock investment,Card,Bob,Bangalore,No
+2025-06-11,Transport,693.08,Expense,Groceries at Big Bazaar,Bank Transfer,Diana,Mumbai,Yes
+2025-06-11,Groceries,576.37,Expense,Electricity bill,UPI,Charlie,Delhi,No
+2025-06-11,Rent,1167.59,Expense,Amazon purchase,UPI,Diana,Delhi,Yes
+2025-06-12,Transport,904.29,Expense,Zomato order,Card,Alice,Chennai,No
+2025-06-12,Rent,172.95,Expense,Freelance project,Cash,Diana,Chennai,No
+2025-06-12,Healthcare,408.05,Expense,Zomato order,Bank Transfer,Bob,Bangalore,Yes
+2025-06-13,Salary,1394.34,Income,Uber ride,Bank Transfer,Alice,Bangalore,Yes
+2025-06-13,Salary,521.88,Income,Uber ride,UPI,Alice,Mumbai,No
+2025-06-13,Investments,3039.47,Income,Uber ride,Bank Transfer,Alice,Chennai,Yes
+2025-06-13,Healthcare,875.48,Expense,Gym membership,Cash,Bob,Mumbai,No
+2025-06-14,Utilities,1230.06,Expense,Freelance project,Cash,Bob,Bangalore,No
+2025-06-14,Healthcare,179.25,Expense,Groceries at Big Bazaar,Bank Transfer,Alice,Delhi,Yes
+2025-06-14,Shopping,1140.22,Expense,Electricity bill,UPI,Charlie,Bangalore,Yes
+2025-06-14,Transport,969.66,Expense,Electricity bill,Card,Charlie,Chennai,Yes
+2025-06-14,Healthcare,1337.57,Expense,Amazon purchase,Bank Transfer,Alice,Chennai,Yes
+2025-06-16,Shopping,1123.97,Expense,Stock investment,Bank Transfer,Diana,Bangalore,Yes
+2025-06-16,Freelancing,1862.68,Income,Freelance project,Bank Transfer,Bob,Delhi,Yes
+2025-06-16,Transport,762.18,Expense,Freelance project,UPI,Diana,Chennai,No
+2025-06-17,Dining,520.76,Expense,Gym membership,UPI,Alice,Mumbai,No
+2025-06-17,Shopping,1007.7,Expense,Stock investment,UPI,Diana,Bangalore,Yes
+2025-06-17,Healthcare,164.33,Expense,Freelance project,UPI,Diana,Bangalore,Yes
+2025-06-17,Rent,1170.06,Expense,Uber ride,Cash,Charlie,Chennai,Yes
+2025-06-17,Shopping,865.82,Expense,Electricity bill,Bank Transfer,Alice,Mumbai,No
+2025-06-18,Transport,1318.41,Expense,Amazon purchase,UPI,Charlie,Delhi,Yes
+2025-06-18,Salary,1756.11,Income,Freelance project,UPI,Diana,Mumbai,No
+2025-06-18,Salary,2389.65,Income,Groceries at Big Bazaar,Cash,Alice,Bangalore,Yes
+2025-06-18,Transport,288.06,Expense,Gym membership,Card,Diana,Bangalore,Yes
+2025-06-18,Transport,268.01,Expense,Electricity bill,Bank Transfer,Charlie,Mumbai,Yes
+2025-06-18,Shopping,208.33,Expense,Stock investment,Bank Transfer,Charlie,Mumbai,Yes
+2025-06-19,Shopping,415.43,Expense,Electricity bill,Card,Alice,Chennai,No
+2025-06-19,Groceries,1279.44,Expense,Electricity bill,Bank Transfer,Bob,Mumbai,No
+2025-06-19,Investments,2336.42,Income,Electricity bill,UPI,Charlie,Delhi,No
+2025-06-19,Shopping,861.4,Expense,Groceries at Big Bazaar,Cash,Charlie,Chennai,No
+2025-06-19,Groceries,1119.37,Expense,Uber ride,UPI,Charlie,Mumbai,Yes
+2025-06-20,Healthcare,371.07,Expense,Gym membership,Cash,Diana,Delhi,No
+2025-06-20,Rent,819.8,Expense,Groceries at Big Bazaar,Card,Alice,Delhi,No
+2025-06-20,Rent,493.09,Expense,Uber ride,Bank Transfer,Bob,Bangalore,No
+2025-06-20,Transport,1452.55,Expense,Amazon purchase,UPI,Alice,Bangalore,Yes
+2025-06-20,Rent,1202.29,Expense,Stock investment,Bank Transfer,Bob,Chennai,No
+2025-06-20,Salary,1459.59,Income,Amazon purchase,UPI,Bob,Delhi,Yes
+2025-06-21,Investments,3815.53,Income,Zomato order,Bank Transfer,Charlie,Bangalore,Yes
+2025-06-21,Salary,738.23,Income,Amazon purchase,Cash,Diana,Delhi,No
+2025-06-21,Rent,360.38,Expense,Groceries at Big Bazaar,Cash,Bob,Delhi,No
+2025-06-21,Utilities,447.21,Expense,Amazon purchase,Bank Transfer,Alice,Mumbai,No
+2025-06-21,Dining,515.73,Expense,Groceries at Big Bazaar,UPI,Alice,Chennai,No
+2025-06-22,Rent,1430.93,Expense,Gym membership,UPI,Bob,Chennai,Yes
+2025-06-22,Utilities,332.12,Expense,Uber ride,Bank Transfer,Diana,Mumbai,Yes
+2025-06-22,Dining,1122.65,Expense,Electricity bill,Cash,Diana,Delhi,Yes
+2025-06-22,Freelancing,1202.81,Income,Amazon purchase,Bank Transfer,Diana,Chennai,No
+2025-06-22,Dining,1215.33,Expense,Amazon purchase,Bank Transfer,Diana,Bangalore,Yes
+2025-06-22,Transport,976.22,Expense,Groceries at Big Bazaar,Card,Charlie,Mumbai,No
+2025-06-23,Investments,2473.82,Income,Uber ride,Bank Transfer,Alice,Bangalore,Yes
+2025-06-23,Shopping,572.68,Expense,Stock investment,Cash,Diana,Chennai,Yes
+2025-06-23,Utilities,954.24,Expense,Stock investment,Bank Transfer,Alice,Chennai,No
+2025-06-23,Utilities,343.36,Expense,Freelance project,UPI,Alice,Mumbai,No
+2025-06-23,Shopping,593.28,Expense,Freelance project,UPI,Charlie,Chennai,No
+2025-06-23,Shopping,225.25,Expense,Stock investment,Cash,Charlie,Delhi,No
+2025-06-24,Investments,2375.34,Income,Groceries at Big Bazaar,UPI,Alice,Chennai,No
+2025-06-24,Utilities,101.94,Expense,Uber ride,Bank Transfer,Diana,Bangalore,Yes
+2025-06-24,Healthcare,590.73,Expense,Amazon purchase,Bank Transfer,Diana,Delhi,No
+2025-06-24,Dining,339.02,Expense,Uber ride,Cash,Diana,Bangalore,No
+2025-06-24,Shopping,329.93,Expense,Stock investment,Bank Transfer,Bob,Mumbai,Yes
+2025-06-24,Utilities,315.05,Expense,Zomato order,Bank Transfer,Alice,Bangalore,Yes
+2025-06-24,Salary,1830.62,Income,Uber ride,Card,Alice,Delhi,Yes
+2025-06-24,Freelancing,592.24,Income,Amazon purchase,UPI,Charlie,Chennai,Yes
+2025-06-25,Dining,683.42,Expense,Freelance project,Cash,Diana,Bangalore,Yes
+2025-06-25,Healthcare,1004.89,Expense,Freelance project,Card,Bob,Chennai,Yes
+2025-06-25,Investments,1328.06,Income,Stock investment,Bank Transfer,Bob,Chennai,No
+2025-06-25,Investments,2435.04,Income,Stock investment,Card,Bob,Mumbai,No
+2025-06-26,Shopping,194.52,Expense,Freelance project,Bank Transfer,Bob,Bangalore,No
+2025-06-26,Freelancing,1727.68,Income,Freelance project,Bank Transfer,Bob,Delhi,No
+2025-06-26,Utilities,189.26,Expense,Gym membership,Bank Transfer,Charlie,Chennai,Yes
+2025-06-26,Transport,1457.02,Expense,Stock investment,Card,Diana,Chennai,Yes
+2025-06-27,Healthcare,1311.94,Expense,Gym membership,Card,Alice,Bangalore,No
+2025-06-27,Investments,2392.7,Income,Freelance project,Bank Transfer,Alice,Chennai,No
+2025-06-27,Dining,75.26,Expense,Electricity bill,Cash,Diana,Delhi,Yes
+2025-06-28,Investments,3094.51,Income,Freelance project,Bank Transfer,Diana,Mumbai,Yes
+2025-06-28,Groceries,163.0,Expense,Freelance project,Cash,Bob,Bangalore,Yes
+2025-06-28,Salary,3624.74,Income,Gym membership,Card,Charlie,Delhi,Yes
+2025-06-28,Investments,2851.58,Income,Uber ride,Bank Transfer,Diana,Bangalore,No
+2025-06-28,Utilities,459.68,Expense,Groceries at Big Bazaar,Card,Charlie,Mumbai,Yes
+2025-06-28,Freelancing,2973.05,Income,Groceries at Big Bazaar,Card,Bob,Delhi,Yes
+2025-06-28,Dining,304.79,Expense,Zomato order,UPI,Charlie,Bangalore,No
+2025-06-29,Shopping,83.74,Expense,Freelance project,Cash,Bob,Delhi,Yes
+2025-06-29,Healthcare,54.8,Expense,Groceries at Big Bazaar,Bank Transfer,Charlie,Bangalore,No
+2025-06-29,Rent,1029.4,Expense,Groceries at Big Bazaar,Cash,Bob,Delhi,Yes
+2025-06-29,Utilities,440.49,Expense,Electricity bill,Card,Alice,Bangalore,Yes
+2025-06-29,Utilities,663.51,Expense,Freelance project,Card,Charlie,Bangalore,No
+2025-06-29,Rent,151.9,Expense,Freelance project,UPI,Diana,Delhi,Yes
